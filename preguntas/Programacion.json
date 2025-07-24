@@ -1,0 +1,1157 @@
+[
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP se usa para obtener información?",
+    "opciones": [
+      "PUT",
+      "POST",
+      "GET",
+      "DELETE"
+    ],
+    "respuesta": "GET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP indica el tipo de contenido del cuerpo del mensaje?",
+    "opciones": [
+      "Accept",
+      "Content-Type",
+      "Authorization",
+      "Host"
+    ],
+    "respuesta": "Content-Type"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué etiqueta HTML se usa para insertar una imagen?",
+    "opciones": [
+      "<image>",
+      "<pic>",
+      "<src>",
+      "<img>"
+    ],
+    "respuesta": "<img>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la etiqueta HTML para crear un enlace?",
+    "opciones": [
+      "<url>",
+      "<a>",
+      "<href>",
+      "<link>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "color",
+      "background-color",
+      "text-color",
+      "font-color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el lenguaje de estilos más usado en la web?",
+    "opciones": [
+      "HTML",
+      "SQL",
+      "CSS",
+      "JS"
+    ],
+    "respuesta": "CSS"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework de Python se usa para desarrollo web?",
+    "opciones": [
+      "Django",
+      "Laravel",
+      "Angular",
+      "React"
+    ],
+    "respuesta": "Django"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework fue creado por Facebook?",
+    "opciones": [
+      "React",
+      "Angular",
+      "Bootstrap",
+      "Vue"
+    ],
+    "respuesta": "React"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP se usa para autenticación?",
+    "opciones": [
+      "Authorization",
+      "Content-Type",
+      "ETag",
+      "Cache-Control"
+    ],
+    "respuesta": "Authorization"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál lenguaje es interpretado?",
+    "opciones": [
+      "Python",
+      "C",
+      "Rust",
+      "C++"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estos es un lenguaje de marcado?",
+    "opciones": [
+      "C#",
+      "Java",
+      "HTML",
+      "Python"
+    ],
+    "respuesta": "HTML"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Color Style Sheet",
+      "Cascading Style Sheets",
+      "Computer Style Syntax",
+      "Creative Style System"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace la etiqueta <br> en HTML?",
+    "opciones": [
+      "Espacio",
+      "Salto de línea",
+      "Texto en negrita",
+      "Encabezado"
+    ],
+    "respuesta": "Salto de línea"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework usa el lenguaje PHP?",
+    "opciones": [
+      "Laravel",
+      "Django",
+      "Express",
+      "Flask"
+    ],
+    "respuesta": "Laravel"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué etiqueta HTML crea una lista no ordenada?",
+    "opciones": [
+      "<li>",
+      "<ul>",
+      "<list>",
+      "<ol>"
+    ],
+    "respuesta": "<ul>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la propiedad CSS para cambiar el tamaño del texto?",
+    "opciones": [
+      "font",
+      "font-size",
+      "text-size",
+      "size"
+    ],
+    "respuesta": "font-size"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estos métodos HTTP modifica parcialmente un recurso?",
+    "opciones": [
+      "PUT",
+      "PATCH",
+      "POST",
+      "DELETE"
+    ],
+    "respuesta": "PATCH"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP se usa para indicar que se aceptan ciertos formatos de respuesta?",
+    "opciones": [
+      "Authorization",
+      "Accept",
+      "Referer",
+      "Host"
+    ],
+    "respuesta": "Accept"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP se usa para eliminar un recurso?",
+    "opciones": [
+      "DELETE",
+      "OPTIONS",
+      "GET",
+      "POST"
+    ],
+    "respuesta": "DELETE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje es más usado en el desarrollo frontend?",
+    "opciones": [
+      "C++",
+      "PHP",
+      "JavaScript",
+      "Python"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework es más usado para estilos CSS?",
+    "opciones": [
+      "Spring",
+      "Flask",
+      "React",
+      "Bootstrap"
+    ],
+    "respuesta": "Bootstrap"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué símbolo se usa para comentarios en CSS?",
+    "opciones": [
+      "#",
+      "/* */",
+      "//",
+      "<!-- -->"
+    ],
+    "respuesta": "/* */"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué atributo HTML se usa para texto alternativo en imágenes?",
+    "opciones": [
+      "alt",
+      "id",
+      "src",
+      "title"
+    ],
+    "respuesta": "alt"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework es de Java?",
+    "opciones": [
+      "Vue",
+      "Flask",
+      "Spring",
+      "Django"
+    ],
+    "respuesta": "Spring"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP es seguro y sin efectos secundarios?",
+    "opciones": [
+      "GET",
+      "DELETE",
+      "POST",
+      "PUT"
+    ],
+    "respuesta": "GET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS centra un texto?",
+    "opciones": [
+      "center",
+      "text-center",
+      "text-align",
+      "align"
+    ],
+    "respuesta": "text-align"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje se usa para crear la estructura de una web?",
+    "opciones": [
+      "Python",
+      "HTML",
+      "SQL",
+      "CSS"
+    ],
+    "respuesta": "HTML"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje permite agregar lógica a una web?",
+    "opciones": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "XML"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el framework más usado con Node.js?",
+    "opciones": [
+      "Flask",
+      "React",
+      "Express",
+      "Django"
+    ],
+    "respuesta": "Express"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el tipo de entrada HTML para contraseña?",
+    "opciones": [
+      "pwd",
+      "secret",
+      "key",
+      "password"
+    ],
+    "respuesta": "password"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework de C# permite construir aplicaciones web?",
+    "opciones": [
+      "Laravel",
+      "ASP.NET",
+      "Express",
+      "Symfony"
+    ],
+    "respuesta": "ASP.NET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS cambia el fondo de un elemento?",
+    "opciones": [
+      "background-color",
+      "border",
+      "color",
+      "font"
+    ],
+    "respuesta": "background-color"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa HTTP?",
+    "opciones": [
+      "HyperText Transfer Protocol",
+      "Host Transfer Protocol",
+      "HyperTool Text Protocol",
+      "High Transfer Text Protocol"
+    ],
+    "respuesta": "HyperText Transfer Protocol"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP reemplaza un recurso completamente?",
+    "opciones": [
+      "POST",
+      "PUT",
+      "DELETE",
+      "PATCH"
+    ],
+    "respuesta": "PUT"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué atributo HTML define el destino de un enlace?",
+    "opciones": [
+      "href",
+      "src",
+      "alt",
+      "link"
+    ],
+    "respuesta": "href"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿En qué año fue creado Python?",
+    "opciones": [
+      "1995",
+      "1989",
+      "1991",
+      "2000"
+    ],
+    "respuesta": "1991"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Quién creó el lenguaje de programación C?",
+    "opciones": [
+      "Bjarne Stroustrup",
+      "Dennis Ritchie",
+      "Guido van Rossum",
+      "James Gosling"
+    ],
+    "respuesta": "Dennis Ritchie"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Brendan Eich en 1995?",
+    "opciones": [
+      "PHP",
+      "C#",
+      "Python",
+      "JavaScript"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea interpretado?",
+    "opciones": [
+      "Se ejecuta línea por línea",
+      "Se usa en frontend",
+      "Tiene tipado estático",
+      "Se compila a binario"
+    ],
+    "respuesta": "Se ejecuta línea por línea"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue desarrollado por Microsoft?",
+    "opciones": [
+      "C#",
+      "PHP",
+      "Java",
+      "Python"
+    ],
+    "respuesta": "C#"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no es ampliamente conocido?",
+    "opciones": [
+      "Haskell",
+      "C++",
+      "Python",
+      "Java"
+    ],
+    "respuesta": "Haskell"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje está orientado a objetos desde su creación?",
+    "opciones": [
+      "C",
+      "Fortran",
+      "Java",
+      "Assembly"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Bjarne Stroustrup?",
+    "opciones": [
+      "Go",
+      "C++",
+      "C#",
+      "Rust"
+    ],
+    "respuesta": "C++"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para reemplazar Perl?",
+    "opciones": [
+      "Python",
+      "Go",
+      "PHP",
+      "Ruby"
+    ],
+    "respuesta": "PHP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea compilado?",
+    "opciones": [
+      "Solo corre en la web",
+      "Se traduce a código máquina antes de ejecutarse",
+      "Requiere un navegador",
+      "Es interpretado por línea"
+    ],
+    "respuesta": "Se traduce a código máquina antes de ejecutarse"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no fue creado en los 90?",
+    "opciones": [
+      "PHP",
+      "JavaScript",
+      "C",
+      "Java"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje es principalmente usado para estadística?",
+    "opciones": [
+      "Perl",
+      "Ruby",
+      "Python",
+      "R"
+    ],
+    "respuesta": "R"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué base de datos suele usarse con ORMs?",
+    "opciones": [
+      "Redis",
+      "NoSQL",
+      "MongoDB",
+      "SQL"
+    ],
+    "respuesta": "SQL"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue desarrollado por Google?",
+    "opciones": [
+      "Go",
+      "Rust",
+      "Ruby",
+      "Swift"
+    ],
+    "respuesta": "Go"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál de estos lenguajes no es funcional?",
+    "opciones": [
+      "Haskell",
+      "Elixir",
+      "Java",
+      "Lisp"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es una ventaja de los lenguajes compilados?",
+    "opciones": [
+      "Usan menos memoria",
+      "Ejecutan línea por línea",
+      "Mayor compatibilidad con la web",
+      "Mayor velocidad de ejecución"
+    ],
+    "respuesta": "Mayor velocidad de ejecución"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue lanzado en 1995 junto con Netscape?",
+    "opciones": [
+      "Ruby",
+      "Python",
+      "JavaScript",
+      "Rust"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es una desventaja de los lenguajes interpretados?",
+    "opciones": [
+      "Requiere compilación previa",
+      "Mayor velocidad",
+      "Difíciles de depurar",
+      "Menor rendimiento"
+    ],
+    "respuesta": "Menor rendimiento"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál de estos lenguajes fue creado en la década de 2000?",
+    "opciones": [
+      "C",
+      "Java",
+      "PHP",
+      "Rust"
+    ],
+    "respuesta": "Rust"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es popular en Python?",
+    "opciones": [
+      "SQLAlchemy",
+      "Hibernate",
+      "TypeORM",
+      "Eloquent"
+    ],
+    "respuesta": "SQLAlchemy"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es propio de PHP?",
+    "opciones": [
+      "Hibernate",
+      "ActiveRecord",
+      "Eloquent",
+      "SQLAlchemy"
+    ],
+    "respuesta": "Eloquent"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje usa el CLR como entorno de ejecución?",
+    "opciones": [
+      "C#",
+      "JavaScript",
+      "Python",
+      "C++"
+    ],
+    "respuesta": "C#"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Yukihiro Matsumoto?",
+    "opciones": [
+      "Go",
+      "Java",
+      "Swift",
+      "Ruby"
+    ],
+    "respuesta": "Ruby"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Guido van Rossum?",
+    "opciones": [
+      "C#",
+      "Ruby",
+      "PHP",
+      "Python"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje de programación fue creado por Sun Microsystems?",
+    "opciones": [
+      "PHP",
+      "C",
+      "C#",
+      "Java"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para aplicaciones de sistemas embebidos?",
+    "opciones": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "C"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un ORM?",
+    "opciones": [
+      "Sistema de compilación",
+      "Lenguaje funcional",
+      "Mapeo entre objetos y tablas",
+      "Base de datos"
+    ],
+    "respuesta": "Mapeo entre objetos y tablas"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea tipado dinámicamente?",
+    "opciones": [
+      "No se pueden compilar",
+      "Es interpretado",
+      "Las variables no necesitan declarar tipo",
+      "Solo funciona en web"
+    ],
+    "respuesta": "Las variables no necesitan declarar tipo"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no soporta orientación a objetos?",
+    "opciones": [
+      "Java",
+      "C",
+      "C#",
+      "Python"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje tiene sintaxis basada en la indentación?",
+    "opciones": [
+      "Python",
+      "PHP",
+      "C++",
+      "Java"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para correr en máquinas virtuales?",
+    "opciones": [
+      "Rust",
+      "C",
+      "Assembly",
+      "Java"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es popular en Java?",
+    "opciones": [
+      "Hibernate",
+      "SQLAlchemy",
+      "Doctrine",
+      "Eloquent"
+    ],
+    "respuesta": "Hibernate"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál fue el objetivo inicial de la creación de C?",
+    "opciones": [
+      "Desarrollar Unix",
+      "Crear videojuegos",
+      "Educación",
+      "Cálculo científico"
+    ],
+    "respuesta": "Desarrollar Unix"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de lenguaje es Bash?",
+    "opciones": [
+      "Orientado a objetos",
+      "Visual",
+      "Compilado",
+      "Interpretado"
+    ],
+    "respuesta": "Interpretado"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue influenciado por C y usado en Apple?",
+    "opciones": [
+      "Rust",
+      "C#",
+      "Swift",
+      "Kotlin"
+    ],
+    "respuesta": "Swift"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón de diseño permite cambiar el algoritmo sin modificar el objeto que lo usa?",
+    "opciones": [
+      "Strategy",
+      "Observer",
+      "Singleton",
+      "Factory"
+    ],
+    "respuesta": "Strategy"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón garantiza que solo haya una instancia de una clase?",
+    "opciones": [
+      "Singleton",
+      "Adapter",
+      "Builder",
+      "Factory"
+    ],
+    "respuesta": "Singleton"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón permite crear objetos sin especificar la clase exacta?",
+    "opciones": [
+      "Observer",
+      "Factory",
+      "Decorator",
+      "Prototype"
+    ],
+    "respuesta": "Factory"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón encapsula una solicitud como un objeto?",
+    "opciones": [
+      "Facade",
+      "Builder",
+      "Command",
+      "Strategy"
+    ],
+    "respuesta": "Command"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón notifica a otros objetos sobre cambios de estado?",
+    "opciones": [
+      "Decorator",
+      "Adapter",
+      "Factory",
+      "Observer"
+    ],
+    "respuesta": "Observer"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón permite construir objetos paso a paso?",
+    "opciones": [
+      "Bridge",
+      "Builder",
+      "Prototype",
+      "Singleton"
+    ],
+    "respuesta": "Builder"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da 0.1 + 0.2 en JavaScript?",
+    "opciones": [
+      "0.30000000000000004",
+      "NaN",
+      "0.299999",
+      "0.3"
+    ],
+    "respuesta": "0.30000000000000004"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo devuelve typeof NaN en JavaScript?",
+    "opciones": [
+      "'number'",
+      "'object'",
+      "'NaN'",
+      "'undefined'"
+    ],
+    "respuesta": "'number'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué valor da typeof null en JavaScript?",
+    "opciones": [
+      "'null'",
+      "'undefined'",
+      "'object'",
+      "'boolean'"
+    ],
+    "respuesta": "'object'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa IEEE 754?",
+    "opciones": [
+      "Protocolo de red",
+      "Compilador",
+      "Lenguaje de programación",
+      "Estándar de punto flotante"
+    ],
+    "respuesta": "Estándar de punto flotante"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el operador '===' en JavaScript?",
+    "opciones": [
+      "Asigna valores",
+      "Convierte tipos",
+      "Compara valor y tipo",
+      "Solo valor"
+    ],
+    "respuesta": "Compara valor y tipo"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da '5' + 2 en JavaScript?",
+    "opciones": [
+      "'52'",
+      "7",
+      "NaN",
+      "Error"
+    ],
+    "respuesta": "'52'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué operador en JavaScript devuelve true si al menos un operando es true?",
+    "opciones": [
+      "!",
+      "&",
+      "||",
+      "&&"
+    ],
+    "respuesta": "||"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Decorator?",
+    "opciones": [
+      "Crea una instancia única",
+      "Simplifica interfaces",
+      "Agrega funcionalidad a objetos dinámicamente",
+      "Observa cambios"
+    ],
+    "respuesta": "Agrega funcionalidad a objetos dinámicamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón convierte una interfaz a otra esperada por el cliente?",
+    "opciones": [
+      "Observer",
+      "Strategy",
+      "Adapter",
+      "Decorator"
+    ],
+    "respuesta": "Adapter"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón proporciona una interfaz simplificada?",
+    "opciones": [
+      "Builder",
+      "Facade",
+      "Proxy",
+      "Adapter"
+    ],
+    "respuesta": "Facade"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da 0.3 - 0.2 - 0.1 en IEEE 754?",
+    "opciones": [
+      "1",
+      "≈ -2.775e-17",
+      "0",
+      "NaN"
+    ],
+    "respuesta": "≈ -2.775e-17"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función de JavaScript convierte a número?",
+    "opciones": [
+      "split()",
+      "toString()",
+      "join()",
+      "parseInt()"
+    ],
+    "respuesta": "parseInt()"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es 'undefined' en JavaScript?",
+    "opciones": [
+      "Error",
+      "Una variable declarada sin valor",
+      "Objeto nulo",
+      "Un tipo booleano"
+    ],
+    "respuesta": "Una variable declarada sin valor"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de typeof undefined?",
+    "opciones": [
+      "'null'",
+      "'object'",
+      "'string'",
+      "'undefined'"
+    ],
+    "respuesta": "'undefined'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa coerción en JavaScript?",
+    "opciones": [
+      "Herencia múltiple",
+      "Encapsulamiento",
+      "Conversión implícita de tipos",
+      "Polimorfismo"
+    ],
+    "respuesta": "Conversión implícita de tipos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la diferencia entre let y var en JavaScript?",
+    "opciones": [
+      "var es constante",
+      "let tiene alcance de bloque",
+      "var es más seguro",
+      "let es global"
+    ],
+    "respuesta": "let tiene alcance de bloque"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es el resultado de typeof function(){}?",
+    "opciones": [
+      "'string'",
+      "'method'",
+      "'function'",
+      "'object'"
+    ],
+    "respuesta": "'function'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Prototype?",
+    "opciones": [
+      "Simplifica interfaces",
+      "Crea objetos únicos",
+      "Encapsula algoritmos",
+      "Clona objetos existentes"
+    ],
+    "respuesta": "Clona objetos existentes"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón usa clases abstractas para definir estructuras?",
+    "opciones": [
+      "Observer",
+      "Strategy",
+      "Builder",
+      "Template Method"
+    ],
+    "respuesta": "Template Method"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón controla el acceso a un objeto mediante intermediario?",
+    "opciones": [
+      "Adapter",
+      "Proxy",
+      "Bridge",
+      "Facade"
+    ],
+    "respuesta": "Proxy"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa Infinity en JavaScript?",
+    "opciones": [
+      "Un valor numérico especial",
+      "Error",
+      "Objeto global",
+      "Booleano"
+    ],
+    "respuesta": "Un valor numérico especial"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué ocurre si se divide un número entre cero en JavaScript?",
+    "opciones": [
+      "Error",
+      "NaN",
+      "Infinity",
+      "Undefined"
+    ],
+    "respuesta": "Infinity"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de typeof []?",
+    "opciones": [
+      "'undefined'",
+      "'object'",
+      "'array'",
+      "'list'"
+    ],
+    "respuesta": "'object'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es NaN?",
+    "opciones": [
+      "Una variable reservada",
+      "Resultado inválido de una operación matemática",
+      "Un objeto especial",
+      "Un tipo de dato"
+    ],
+    "respuesta": "Resultado inválido de una operación matemática"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de parseInt('10px')?",
+    "opciones": [
+      "10",
+      "NaN",
+      "0",
+      "Error"
+    ],
+    "respuesta": "10"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el operador ^ en JavaScript?",
+    "opciones": [
+      "Negación",
+      "Suma",
+      "AND lógico",
+      "XOR bit a bit"
+    ],
+    "respuesta": "XOR bit a bit"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa hoisting en JavaScript?",
+    "opciones": [
+      "Elevación de declaraciones",
+      "Herencia",
+      "Inyección de dependencias",
+      "Polimorfismo"
+    ],
+    "respuesta": "Elevación de declaraciones"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Chain of Responsibility?",
+    "opciones": [
+      "Crea instancias",
+      "Conecta interfaces incompatibles",
+      "Pasa solicitudes por una cadena de manejadores",
+      "Permite múltiples herencias"
+    ],
+    "respuesta": "Pasa solicitudes por una cadena de manejadores"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón separa abstracción de su implementación?",
+    "opciones": [
+      "Adapter",
+      "Proxy",
+      "Builder",
+      "Bridge"
+    ],
+    "respuesta": "Bridge"
+  }  
+]

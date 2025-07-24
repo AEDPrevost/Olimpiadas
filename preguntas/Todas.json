@@ -1,0 +1,3292 @@
+[
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de software ayuda a proteger tu computadora de virus?",
+    "opciones": [
+      "Antivirus",
+      "Editor de texto",
+      "Navegador",
+      "Calculadora"
+    ],
+    "respuesta": "Antivirus"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa 'https' en una URL?",
+    "opciones": [
+      "Protocolo de red segura",
+      "Hipervínculo temporal",
+      "HTML avanzado",
+      "Página sin formato"
+    ],
+    "respuesta": "Protocolo de red segura"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estas opciones es una buena práctica de seguridad?",
+    "opciones": [
+      "Cambiar contraseñas regularmente",
+      "Escribir contraseñas en papel",
+      "Usar '1234' como clave",
+      "Desactivar el firewall"
+    ],
+    "respuesta": "Cambiar contraseñas regularmente"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un archivo adjunto sospechoso?",
+    "opciones": [
+      "Archivo inesperado de origen desconocido",
+      "Imagen de vacaciones",
+      "Documento de Word",
+      "Foto familiar"
+    ],
+    "respuesta": "Archivo inesperado de origen desconocido"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué puede ocurrir si haces clic en enlaces de correos fraudulentos?",
+    "opciones": [
+      "Instalación de malware",
+      "Mejoras de seguridad",
+      "Limpieza del disco",
+      "Actualización de software"
+    ],
+    "respuesta": "Instalación de malware"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un ataque de 'phishing'?",
+    "opciones": [
+      "Intento de obtener datos personales con engaños",
+      "Ataque físico a hardware",
+      "Descarga de archivos grandes",
+      "Actualización automática"
+    ],
+    "respuesta": "Intento de obtener datos personales con engaños"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de dato sensible?",
+    "opciones": [
+      "Número de tarjeta de crédito",
+      "Color favorito",
+      "Nombre de tu mascota",
+      "Ciudad natal"
+    ],
+    "respuesta": "Número de tarjeta de crédito"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué se recomienda al crear contraseñas?",
+    "opciones": [
+      "Usar símbolos, números y letras",
+      "Repetir tu nombre",
+      "Solo letras",
+      "Una palabra corta"
+    ],
+    "respuesta": "Usar símbolos, números y letras"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una red WiFi pública?",
+    "opciones": [
+      "Red sin contraseña en espacios abiertos",
+      "Red doméstica",
+      "Red de dispositivos Bluetooth",
+      "Red segura universitaria"
+    ],
+    "respuesta": "Red sin contraseña en espacios abiertos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Por qué no es seguro compartir contraseñas?",
+    "opciones": [
+      "Porque otros podrían acceder a tu información",
+      "Porque consume internet",
+      "Porque es ilegal",
+      "Porque gasta batería"
+    ],
+    "respuesta": "Porque otros podrían acceder a tu información"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa 2FA?",
+    "opciones": [
+      "Autenticación en dos pasos",
+      "Antivirus de fábrica",
+      "Acceso fijo al sistema",
+      "Archivo final adjunto"
+    ],
+    "respuesta": "Autenticación en dos pasos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué debes hacer si recibes un correo sospechoso?",
+    "opciones": [
+      "No abrirlo y reportarlo",
+      "Responderlo rápido",
+      "Reenviarlo a tus contactos",
+      "Descargar sus archivos"
+    ],
+    "respuesta": "No abrirlo y reportarlo"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es una señal clara de un sitio web inseguro?",
+    "opciones": [
+      "No tiene el candado en la barra del navegador",
+      "Está en inglés",
+      "Es muy lento",
+      "Tiene pocas imágenes"
+    ],
+    "respuesta": "No tiene el candado en la barra del navegador"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué herramienta ayuda a gestionar múltiples contraseñas?",
+    "opciones": [
+      "Administrador de contraseñas",
+      "Calendario",
+      "Calculadora",
+      "Galería de fotos"
+    ],
+    "respuesta": "Administrador de contraseñas"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué debes evitar hacer en una red pública?",
+    "opciones": [
+      "Acceder a cuentas bancarias",
+      "Leer noticias",
+      "Ver videos de cocina",
+      "Leer correos promocionales"
+    ],
+    "respuesta": "Acceder a cuentas bancarias"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de archivos pueden contener virus?",
+    "opciones": [
+      ".exe",
+      ".jpg",
+      ".txt",
+      ".mp3"
+    ],
+    "respuesta": ".exe"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una política de privacidad?",
+    "opciones": [
+      "Documento que indica cómo se usan tus datos",
+      "Manual de usuario",
+      "Antivirus gratuito",
+      "Menú de ayuda"
+    ],
+    "respuesta": "Documento que indica cómo se usan tus datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una contraseña segura?",
+    "opciones": [
+      "T3st$EgUr0_89",
+      "miapellido",
+      "12345678",
+      "nombre123"
+    ],
+    "respuesta": "T3st$EgUr0_89"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Por qué actualizar el software mejora la seguridad?",
+    "opciones": [
+      "Corrige vulnerabilidades conocidas",
+      "Hace que todo se vea nuevo",
+      "Consume más batería",
+      "Borra archivos antiguos"
+    ],
+    "respuesta": "Corrige vulnerabilidades conocidas"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace un firewall?",
+    "opciones": [
+      "Filtra el tráfico de red",
+      "Aumenta el volumen",
+      "Conecta el wifi",
+      "Imprime documentos"
+    ],
+    "respuesta": "Filtra el tráfico de red"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un malware?",
+    "opciones": [
+      "Software malicioso",
+      "Herramienta de diseño",
+      "Antivirus",
+      "Aplicación musical"
+    ],
+    "respuesta": "Software malicioso"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un backup?",
+    "opciones": [
+      "Copia de seguridad de datos",
+      "Cierre de sesión",
+      "Cambio de usuario",
+      "Limpieza de archivos temporales"
+    ],
+    "respuesta": "Copia de seguridad de datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un captcha?",
+    "opciones": [
+      "Prueba para diferenciar humanos de bots",
+      "Error de sistema",
+      "Teclado virtual",
+      "Contraseña cifrada"
+    ],
+    "respuesta": "Prueba para diferenciar humanos de bots"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace un software espía (spyware)?",
+    "opciones": [
+      "Roba información del usuario",
+      "Mejora la conexión a internet",
+      "Borra virus",
+      "Organiza carpetas"
+    ],
+    "respuesta": "Roba información del usuario"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es el cifrado de datos?",
+    "opciones": [
+      "Transformar información para que solo sea legible con clave",
+      "Eliminar archivos duplicados",
+      "Reducir tamaño del archivo",
+      "Proteger hardware de golpes"
+    ],
+    "respuesta": "Transformar información para que solo sea legible con clave"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta de línea de comandos se utiliza en Linux para escanear puertos?",
+    "opciones": [
+      "netstat",
+      "ping",
+      "nmap",
+      "curl"
+    ],
+    "respuesta": "nmap"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la función de un IDS (Sistema de Detección de Intrusos)?",
+    "opciones": [
+      "Cifrar datos",
+      "Detectar actividad maliciosa en la red",
+      "Almacenar registros de acceso",
+      "Autenticar usuarios"
+    ],
+    "respuesta": "Detectar actividad maliciosa en la red"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la función de una política de contraseñas?",
+    "opciones": [
+      "Eliminar usuarios inactivos",
+      "Establecer directrices para crear contraseñas seguras",
+      "Evitar que se compartan archivos",
+      "Detectar anomalías de red"
+    ],
+    "respuesta": "Establecer directrices para crear contraseñas seguras"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de ataque se basa en enviar correos electrónicos falsos para robar credenciales?",
+    "opciones": [
+      "Phishing",
+      "Spoofing",
+      "Sniffing",
+      "Brute force"
+    ],
+    "respuesta": "Phishing"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué método se utiliza para asegurar que un archivo no ha sido alterado?",
+    "opciones": [
+      "Compresión",
+      "Hashing",
+      "Compilación",
+      "Cifrado"
+    ],
+    "respuesta": "Hashing"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo seguro reemplaza a Telnet?",
+    "opciones": [
+      "FTP",
+      "SSH",
+      "HTTP",
+      "SMTP"
+    ],
+    "respuesta": "SSH"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta se usa para capturar tráfico en una red?",
+    "opciones": [
+      "Snort",
+      "Wireshark",
+      "Cain & Abel",
+      "Hydra"
+    ],
+    "respuesta": "Wireshark"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué puerto se usa por defecto para HTTPS?",
+    "opciones": [
+      "21",
+      "22",
+      "80",
+      "443"
+    ],
+    "respuesta": "443"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una botnet?",
+    "opciones": [
+      "Un tipo de antivirus",
+      "Una red de dispositivos infectados controlados remotamente",
+      "Una herramienta de monitoreo de red",
+      "Un cortafuegos físico"
+    ],
+    "respuesta": "Una red de dispositivos infectados controlados remotamente"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué técnica busca vulnerabilidades desconocidas antes de que sean públicas?",
+    "opciones": [
+      "Zero-day",
+      "Patch Tuesday",
+      "Pharming",
+      "Backdoor"
+    ],
+    "respuesta": "Zero-day"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta automatiza pruebas de seguridad contra vulnerabilidades web?",
+    "opciones": [
+      "Nessus",
+      "ZAP",
+      "Postman",
+      "Fiddler"
+    ],
+    "respuesta": "ZAP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué representa la sigla CVE?",
+    "opciones": [
+      "Critical Vulnerability Exposure",
+      "Common Vulnerabilities and Exposures",
+      "Cybersecurity Verified Event",
+      "Computer Virus Evaluation"
+    ],
+    "respuesta": "Common Vulnerabilities and Exposures"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un 'ataque de fuerza bruta'?",
+    "opciones": [
+      "Explotar una vulnerabilidad ya conocida",
+      "Intentar todas las combinaciones posibles para descubrir una contraseña",
+      "Redireccionar el tráfico DNS",
+      "Enviar malware a través de USB"
+    ],
+    "respuesta": "Intentar todas las combinaciones posibles para descubrir una contraseña"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un 'keylogger'?",
+    "opciones": [
+      "Programa para gestionar contraseñas",
+      "Herramienta para capturar pulsaciones del teclado",
+      "Software de respaldo de datos",
+      "Extensión de navegador"
+    ],
+    "respuesta": "Herramienta para capturar pulsaciones del teclado"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué componente de seguridad se encarga del cifrado de datos en redes privadas?",
+    "opciones": [
+      "VPN",
+      "Firewall",
+      "Proxy",
+      "Antivirus"
+    ],
+    "respuesta": "VPN"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de canal lateral?",
+    "opciones": [
+      "Ataque de enumeración",
+      "Aprovechamiento de información física como tiempo o consumo eléctrico",
+      "Sistema de detección de intrusos",
+      "Falsificación digital"
+    ],
+    "respuesta": "Aprovechamiento de información física como tiempo o consumo eléctrico"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función cumple el algoritmo bcrypt en ciberseguridad?",
+    "opciones": [
+      "Suplantación del usuario",
+      "Hashing de contraseñas con protección frente a ataques por diccionario",
+      "Fallo de autenticación",
+      "Explotación silenciosa"
+    ],
+    "respuesta": "Hashing de contraseñas con protección frente a ataques por diccionario"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica mitiga ataques de inyección SQL?",
+    "opciones": [
+      "Consultas parametrizadas",
+      "VPN sobre HTTPS",
+      "Compresión de datos",
+      "Uso de cookies"
+    ],
+    "respuesta": "Consultas parametrizadas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué son los registros DNS 'TXT' usados en SPF y DKIM?",
+    "opciones": [
+      "Suplantación del usuario",
+      "Para autenticación de correos electrónicos y prevenir spoofing",
+      "Captura de sesión",
+      "Código embebido malicioso"
+    ],
+    "respuesta": "Para autenticación de correos electrónicos y prevenir spoofing"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo cifra el tráfico entre cliente y servidor en VPNs modernas?",
+    "opciones": [
+      "Acceso persistente",
+      "Explotación silenciosa",
+      "Suplantación del usuario",
+      "OpenVPN o WireGuard"
+    ],
+    "respuesta": "OpenVPN o WireGuard"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se logra con el 'code obfuscation' en software?",
+    "opciones": [
+      "Reducir el tamaño del archivo ejecutable",
+      "Acelerar ejecución",
+      "Evitar actualizaciones de seguridad",
+      "Proteger el código de ingeniería inversa"
+    ],
+    "respuesta": "Proteger el código de ingeniería inversa"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué herramienta se usa comúnmente para auditoría de contraseñas en sistemas Linux?",
+    "opciones": [
+      "John the Ripper",
+      "OpenSSL",
+      "Aircrack-ng",
+      "Tcpdump"
+    ],
+    "respuesta": "John the Ripper"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de 'cross-site scripting persistente' (XSS persistente)?",
+    "opciones": [
+      "Falsificación digital",
+      "Acceso no autorizado",
+      "Código embebido malicioso",
+      "Cuando el código malicioso queda almacenado y se ejecuta con cada visita"
+    ],
+    "respuesta": "Cuando el código malicioso queda almacenado y se ejecuta con cada visita"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica permite escalar privilegios en un sistema?",
+    "opciones": [
+      "Falsificación digital",
+      "Sistema de detección de intrusos",
+      "Acceso persistente",
+      "Explotación de vulnerabilidad local"
+    ],
+    "respuesta": "Explotación de vulnerabilidad local"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función tiene un SIEM en ciberseguridad?",
+    "opciones": [
+      "Gestión de direcciones IP públicas",
+      "Explotación silenciosa",
+      "Análisis y correlación de eventos de seguridad",
+      "Sistema de detección de intrusos"
+    ],
+    "respuesta": "Análisis y correlación de eventos de seguridad"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se explora con un ataque de fuzzing?",
+    "opciones": [
+      "Introducción de entradas inválidas para descubrir fallos",
+      "Fallo de autenticación",
+      "Sistema de detección de intrusos",
+      "Ataque de enumeración"
+    ],
+    "respuesta": "Introducción de entradas inválidas para descubrir fallos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de DLL hijacking?",
+    "opciones": [
+      "Sustitución de librerías dinámicas por versiones maliciosas",
+      "Falsificación digital",
+      "Ataque de enumeración",
+      "Captura de sesión"
+    ],
+    "respuesta": "Sustitución de librerías dinámicas por versiones maliciosas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la finalidad de una tabla arcoíris (rainbow table)?",
+    "opciones": [
+      "Descifrar hashes mediante precomputación",
+      "Sistema de detección de intrusos",
+      "Suplantación del usuario",
+      "Falsificación digital"
+    ],
+    "respuesta": "Descifrar hashes mediante precomputación"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de fuerza bruta inverso?",
+    "opciones": [
+      "Sistema de detección de intrusos",
+      "Probar múltiples usuarios con una contraseña común",
+      "Captura de sesión",
+      "Ataque de enumeración"
+    ],
+    "respuesta": "Probar múltiples usuarios con una contraseña común"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué implica una fuga de memoria en software?",
+    "opciones": [
+      "Pérdida de control sobre el uso de RAM por una app",
+      "Acceso persistente",
+      "Captura de sesión",
+      "Falsificación digital"
+    ],
+    "respuesta": "Pérdida de control sobre el uso de RAM por una app"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica usa un atacante para persistencia en el sistema?",
+    "opciones": [
+      "Acceso no autorizado",
+      "Sistema de detección de intrusos",
+      "Modificar claves de arranque o tareas programadas",
+      "Suplantación del usuario"
+    ],
+    "respuesta": "Modificar claves de arranque o tareas programadas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se entiende por seguridad por oscuridad?",
+    "opciones": [
+      "Ataque de enumeración",
+      "Sistema de detección de intrusos",
+      "Explotación silenciosa",
+      "Ocultar detalles del sistema en lugar de protegerlos correctamente"
+    ],
+    "respuesta": "Ocultar detalles del sistema en lugar de protegerlos correctamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el CVSS?",
+    "opciones": [
+      "Acceso persistente",
+      "Ataque de enumeración",
+      "Sistema de puntuación de vulnerabilidades",
+      "Acceso no autorizado"
+    ],
+    "respuesta": "Sistema de puntuación de vulnerabilidades"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué realiza una prueba de caja negra en pentesting?",
+    "opciones": [
+      "Captura de sesión",
+      "Código embebido malicioso",
+      "Fallo de autenticación",
+      "El auditor no tiene conocimiento previo del sistema"
+    ],
+    "respuesta": "El auditor no tiene conocimiento previo del sistema"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué componente analiza firmas digitales en correos?",
+    "opciones": [
+      "Cliente o servidor de correo seguro con DKIM",
+      "Falsificación digital",
+      "Captura de sesión",
+      "Acceso persistente"
+    ],
+    "respuesta": "Cliente o servidor de correo seguro con DKIM"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una base de datos?",
+    "opciones": [
+      "Archivo ejecutable",
+      "Imagen de alta resolución",
+      "Colección organizada de datos",
+      "Red social"
+    ],
+    "respuesta": "Colección organizada de datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de base de datos usa tablas?",
+    "opciones": [
+      "Jerárquica",
+      "Orientada a objetos",
+      "No estructurada",
+      "Relacional"
+    ],
+    "respuesta": "Relacional"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje se usa para interactuar con bases de datos relacionales?",
+    "opciones": [
+      "HTML",
+      "Python",
+      "SQL",
+      "CSS"
+    ],
+    "respuesta": "SQL"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa SQL?",
+    "opciones": [
+      "Structured Query Language",
+      "Standard Quick Language",
+      "Simple Query Language",
+      "Server Query Logic"
+    ],
+    "respuesta": "Structured Query Language"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace el comando SELECT en SQL?",
+    "opciones": [
+      "Crea una nueva tabla",
+      "Elimina una tabla",
+      "Recupera datos de una tabla",
+      "Cierra la conexión"
+    ],
+    "respuesta": "Recupera datos de una tabla"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el comando para insertar registros en una tabla?",
+    "opciones": [
+      "APPEND",
+      "INSERT INTO",
+      "PUT INTO",
+      "ADD NEW"
+    ],
+    "respuesta": "INSERT INTO"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace el comando DELETE?",
+    "opciones": [
+      "Agrega columnas",
+      "Elimina registros existentes",
+      "Recupera datos",
+      "Cambia tipo de dato"
+    ],
+    "respuesta": "Elimina registros existentes"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando actualiza datos en una tabla?",
+    "opciones": [
+      "UPDATE",
+      "EDIT",
+      "REFRESH",
+      "INSERT"
+    ],
+    "respuesta": "UPDATE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una fila en una tabla?",
+    "opciones": [
+      "Una categoría",
+      "Un registro de datos",
+      "Un nombre de base",
+      "Una tabla secundaria"
+    ],
+    "respuesta": "Un registro de datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una columna?",
+    "opciones": [
+      "Clave foránea",
+      "Campo que almacena un tipo de dato específico",
+      "Relación entre tablas",
+      "Fila única"
+    ],
+    "respuesta": "Campo que almacena un tipo de dato específico"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando SQL se usa para ordenar resultados?",
+    "opciones": [
+      "SORT OUT",
+      "GROUP BY",
+      "ORDER BY",
+      "ARRANGE"
+    ],
+    "respuesta": "ORDER BY"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando filtra resultados en SQL?",
+    "opciones": [
+      "HAVING",
+      "FILTER",
+      "WHERE",
+      "SELECT *"
+    ],
+    "respuesta": "WHERE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué extensión común tienen los archivos de bases de datos SQLite?",
+    "opciones": [
+      ".db",
+      ".sql",
+      ".csv",
+      ".sqlite"
+    ],
+    "respuesta": ".db"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué herramienta es un sistema de gestión de base de datos?",
+    "opciones": [
+      "Outlook",
+      "MySQL",
+      "Chrome",
+      "Photoshop"
+    ],
+    "respuesta": "MySQL"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de dato se usa para números enteros en SQL?",
+    "opciones": [
+      "FLOAT",
+      "BOOLEAN",
+      "INT",
+      "CHAR"
+    ],
+    "respuesta": "INT"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de dato almacena texto variable en SQL?",
+    "opciones": [
+      "VARCHAR",
+      "CHARACTER",
+      "TEXTURE",
+      "STRING"
+    ],
+    "respuesta": "VARCHAR"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando se usa para crear una tabla?",
+    "opciones": [
+      "ADD TABLE",
+      "NEW TABLE",
+      "MAKE TABLE",
+      "CREATE TABLE"
+    ],
+    "respuesta": "CREATE TABLE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa NULL en SQL?",
+    "opciones": [
+      "Error de sintaxis",
+      "Valor desconocido o inexistente",
+      "Cadena vacía",
+      "Valor cero"
+    ],
+    "respuesta": "Valor desconocido o inexistente"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando borra una tabla completa?",
+    "opciones": [
+      "REMOVE TABLE",
+      "DELETE ALL",
+      "ERASE TABLE",
+      "DROP TABLE"
+    ],
+    "respuesta": "DROP TABLE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una consulta?",
+    "opciones": [
+      "Pregunta formulada a la base de datos para obtener información",
+      "Nombre de una tabla",
+      "Tipo de dato",
+      "Nueva fila"
+    ],
+    "respuesta": "Pregunta formulada a la base de datos para obtener información"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace la cláusula DISTINCT en SQL?",
+    "opciones": [
+      "Elimina duplicados de los resultados",
+      "Agrupa filas",
+      "Cambia claves primarias",
+      "Muestra la fecha actual"
+    ],
+    "respuesta": "Elimina duplicados de los resultados"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué representa una base de datos relacional?",
+    "opciones": [
+      "Consultas visuales",
+      "Tablas estáticas",
+      "Íconos conectados",
+      "Relaciones entre tablas mediante claves"
+    ],
+    "respuesta": "Relaciones entre tablas mediante claves"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de los siguientes NO es un tipo de dato válido en SQL?",
+    "opciones": [
+      "IMAGE",
+      "DATE",
+      "TEXT",
+      "BOOLEAN"
+    ],
+    "respuesta": "IMAGE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando se usa para cambiar el nombre de una tabla?",
+    "opciones": [
+      "CHANGE TABLE",
+      "MODIFY TABLE",
+      "EDIT TABLE",
+      "RENAME"
+    ],
+    "respuesta": "RENAME"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace la función COUNT en SQL?",
+    "opciones": [
+      "Elimina datos",
+      "Crea una columna",
+      "Mide longitud de texto",
+      "Cuenta el número de registros"
+    ],
+    "respuesta": "Cuenta el número de registros"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué función se usa para calcular promedios en SQL?",
+    "opciones": [
+      "SUM",
+      "MEAN",
+      "AVG",
+      "TOTAL"
+    ],
+    "respuesta": "AVG"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando une varias condiciones en SQL?",
+    "opciones": [
+      "TOGETHER",
+      "UNION",
+      "MERGE",
+      "AND"
+    ],
+    "respuesta": "AND"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace la cláusula LIMIT?",
+    "opciones": [
+      "Evita errores",
+      "Agrupa filas por condición",
+      "Aumenta la velocidad de consulta",
+      "Restringe el número de resultados"
+    ],
+    "respuesta": "Restringe el número de resultados"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando combina resultados de varias tablas?",
+    "opciones": [
+      "SELECT *",
+      "JOIN",
+      "MATCH",
+      "APPEND"
+    ],
+    "respuesta": "JOIN"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué operador lógico representa 'o' en SQL?",
+    "opciones": [
+      "ELSE",
+      "OR",
+      "IF",
+      "THEN"
+    ],
+    "respuesta": "OR"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué sistema de base de datos es ampliamente usado para sitios web?",
+    "opciones": [
+      "Paint",
+      "MySQL",
+      "Firefox",
+      "Dropbox"
+    ],
+    "respuesta": "MySQL"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el comando para borrar todos los datos pero mantener la estructura?",
+    "opciones": [
+      "CLEAR",
+      "DELETE",
+      "TRUNCATE",
+      "DROP"
+    ],
+    "respuesta": "TRUNCATE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué motor de base de datos es nativo en Python y no requiere instalación?",
+    "opciones": [
+      "MongoDB",
+      "Oracle",
+      "PostgreSQL",
+      "SQLite"
+    ],
+    "respuesta": "SQLite"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un motor de base de datos?",
+    "opciones": [
+      "Cable de red",
+      "Sistema operativo",
+      "Software que gestiona almacenamiento, acceso y manipulación de datos",
+      "Paquete ofimático"
+    ],
+    "respuesta": "Software que gestiona almacenamiento, acceso y manipulación de datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la forma correcta de terminar una instrucción SQL?",
+    "opciones": [
+      "Signo de exclamación (!)",
+      "Punto y coma (;)",
+      "Coma (,)",
+      "Punto (.)"
+    ],
+    "respuesta": "Punto y coma (;)"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una clave primaria?",
+    "opciones": [
+      "Valor nulo opcional",
+      "Campo único que identifica cada registro",
+      "Campo repetido para enlaces",
+      "Columna secundaria"
+    ],
+    "respuesta": "Campo único que identifica cada registro"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una clave foránea?",
+    "opciones": [
+      "Índice de orden",
+      "Campo con valor por defecto",
+      "Campo que referencia una clave primaria externa",
+      "Campo que se repite internamente"
+    ],
+    "respuesta": "Campo que referencia una clave primaria externa"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando crea una nueva tabla en SQL?",
+    "opciones": [
+      "BUILD TABLE",
+      "INSERT TABLE",
+      "CREATE TABLE",
+      "NEW TABLE"
+    ],
+    "respuesta": "CREATE TABLE"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace un índice en una base de datos?",
+    "opciones": [
+      "Desactiva relaciones",
+      "Divide la base de datos",
+      "Acelera búsquedas sobre columnas específicas",
+      "Mezcla registros"
+    ],
+    "respuesta": "Acelera búsquedas sobre columnas específicas"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de JOIN incluye todas las filas de la tabla izquierda?",
+    "opciones": [
+      "LEFT JOIN",
+      "RIGHT JOIN",
+      "FULL JOIN",
+      "INNER JOIN"
+    ],
+    "respuesta": "LEFT JOIN"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace la cláusula GROUP BY en SQL?",
+    "opciones": [
+      "Agrupa filas con valores idénticos en columnas seleccionadas",
+      "Ordena los resultados",
+      "Crea índices",
+      "Reemplaza duplicados"
+    ],
+    "respuesta": "Agrupa filas con valores idénticos en columnas seleccionadas"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de dato almacena valores verdaderos o falsos?",
+    "opciones": [
+      "CHAR",
+      "TEXT",
+      "DECIMAL",
+      "BOOLEAN"
+    ],
+    "respuesta": "BOOLEAN"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué función devuelve el número total de registros?",
+    "opciones": [
+      "SUM()",
+      "COUNT()",
+      "AVG()",
+      "LEN()"
+    ],
+    "respuesta": "COUNT()"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es el resultado de usar DISTINCT en una consulta?",
+    "opciones": [
+      "Se eliminan valores duplicados",
+      "Se cambia el tipo de dato",
+      "Se crea una tabla nueva",
+      "Se aplican filtros avanzados"
+    ],
+    "respuesta": "Se eliminan valores duplicados"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una subconsulta?",
+    "opciones": [
+      "Parte de un índice",
+      "Tipo de clave primaria",
+      "Consulta dentro de otra consulta",
+      "Campo especial"
+    ],
+    "respuesta": "Consulta dentro de otra consulta"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de JOIN incluye todas las filas de ambas tablas?",
+    "opciones": [
+      "LEFT JOIN",
+      "FULL JOIN",
+      "INNER JOIN",
+      "RIGHT JOIN"
+    ],
+    "respuesta": "FULL JOIN"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué palabra clave se usa para asignar un alias a una columna?",
+    "opciones": [
+      "FOR",
+      "LIKE",
+      "AS",
+      "TO"
+    ],
+    "respuesta": "AS"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué operador se usa para comparar patrones en SQL?",
+    "opciones": [
+      "REGEXP",
+      "MATCHES",
+      "EQUALS",
+      "LIKE"
+    ],
+    "respuesta": "LIKE"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un campo calculado?",
+    "opciones": [
+      "Columna que se genera a partir de una operación",
+      "Tipo de dato lógico",
+      "Nombre alternativo de una tabla",
+      "Índice por defecto"
+    ],
+    "respuesta": "Columna que se genera a partir de una operación"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué función SQL devuelve el valor más alto de una columna numérica?",
+    "opciones": [
+      "TOP()",
+      "LARGEST()",
+      "MAX()",
+      "HIGH()"
+    ],
+    "respuesta": "MAX()"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué operador permite seleccionar valores dentro de una lista?",
+    "opciones": [
+      "ANY",
+      "IN",
+      "EACH",
+      "BETWEEN"
+    ],
+    "respuesta": "IN"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué función calcula el total acumulado?",
+    "opciones": [
+      "COUNT()",
+      "SUM()",
+      "ADDITION()",
+      "TOTAL()"
+    ],
+    "respuesta": "SUM()"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace el operador BETWEEN?",
+    "opciones": [
+      "Selecciona valores dentro de un rango",
+      "Agrupa resultados",
+      "Ordena registros",
+      "Excluye nulos"
+    ],
+    "respuesta": "Selecciona valores dentro de un rango"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa INNER JOIN?",
+    "opciones": [
+      "Agrupa datos repetidos",
+      "Combina filas que cumplen una condición en ambas tablas",
+      "Conecta vistas ocultas",
+      "Une filas duplicadas"
+    ],
+    "respuesta": "Combina filas que cumplen una condición en ambas tablas"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué operador se usa para excluir resultados que coincidan?",
+    "opciones": [
+      "EXCLUDE",
+      "ELSE",
+      "NOT",
+      "SKIP"
+    ],
+    "respuesta": "NOT"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa una relación uno a muchos?",
+    "opciones": [
+      "Una fila en una tabla está relacionada con muchas filas en otra",
+      "Solo se permiten relaciones internas",
+      "Varias tablas comparten claves primarias",
+      "Dos tablas tienen igual cantidad de columnas"
+    ],
+    "respuesta": "Una fila en una tabla está relacionada con muchas filas en otra"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué instrucción actualiza múltiples columnas en una fila?",
+    "opciones": [
+      "UPDATE ... SET col1=..., col2=...",
+      "CHANGE",
+      "ALTER",
+      "EDIT"
+    ],
+    "respuesta": "UPDATE ... SET col1=..., col2=..."
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué función retorna el valor mínimo de una columna?",
+    "opciones": [
+      "LOW()",
+      "MIN()",
+      "FIRST()",
+      "BOTTOM()"
+    ],
+    "respuesta": "MIN()"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué función se usa para concatenar columnas en SQL estándar?",
+    "opciones": [
+      "MERGE()",
+      "JOIN()",
+      "CONCAT()",
+      "STRING()"
+    ],
+    "respuesta": "CONCAT()"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué cláusula se usa para limitar el número de resultados?",
+    "opciones": [
+      "LIMIT",
+      "COUNT",
+      "RESTRICT",
+      "CUT"
+    ],
+    "respuesta": "LIMIT"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace el operador IS NULL?",
+    "opciones": [
+      "Verifica si un valor es nulo",
+      "Convierte a nulo",
+      "Suma nulos",
+      "Asigna NULL"
+    ],
+    "respuesta": "Verifica si un valor es nulo"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando se usa para modificar una tabla existente?",
+    "opciones": [
+      "MODIFY TABLE",
+      "EDIT TABLE",
+      "UPDATE STRUCTURE",
+      "ALTER TABLE"
+    ],
+    "respuesta": "ALTER TABLE"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué cláusula se usa junto a funciones agregadas para filtrar resultados?",
+    "opciones": [
+      "FILTER",
+      "HAVING",
+      "IF",
+      "WHERE"
+    ],
+    "respuesta": "HAVING"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa DML en SQL?",
+    "opciones": [
+      "Data Manipulation Language",
+      "Data Mapping Language",
+      "Database Modeling Language",
+      "Domain Management Layer"
+    ],
+    "respuesta": "Data Manipulation Language"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje permite definir estructuras como tablas o vistas?",
+    "opciones": [
+      "DML",
+      "JSON",
+      "DDL",
+      "HTML"
+    ],
+    "respuesta": "DDL"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa normalizar una base de datos?",
+    "opciones": [
+      "Dividir claves primarias",
+      "Comprimir datos",
+      "Eliminar redundancias y dependencias innecesarias",
+      "Crear subconsultas"
+    ],
+    "respuesta": "Eliminar redundancias y dependencias innecesarias"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué representa una restricción UNIQUE?",
+    "opciones": [
+      "Agrupa los valores automáticamente",
+      "Crea claves foráneas",
+      "Impide valores duplicados en una columna",
+      "Requiere relaciones externas"
+    ],
+    "respuesta": "Impide valores duplicados en una columna"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta visual permite modelar bases de datos?",
+    "opciones": [
+      "Visual Studio Code",
+      "MySQL Workbench",
+      "Excel",
+      "Photoshop"
+    ],
+    "respuesta": "MySQL Workbench"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una base de datos transaccional?",
+    "opciones": [
+      "Conjunto de claves duplicadas",
+      "Sistema solo de lectura",
+      "Sistema que asegura integridad durante operaciones múltiples",
+      "Base de datos para imágenes"
+    ],
+    "respuesta": "Sistema que asegura integridad durante operaciones múltiples"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué representa una vista en una base de datos?",
+    "opciones": [
+      "Tabla duplicada",
+      "Relación secundaria",
+      "Consulta guardada que puede comportarse como una tabla",
+      "Campo sin clave"
+    ],
+    "respuesta": "Consulta guardada que puede comportarse como una tabla" 
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué propiedad garantiza que una transacción sea indivisible?",
+    "opciones": [
+      "Consistencia",
+      "Aislamiento",
+      "Atomicidad",
+      "Durabilidad"
+    ],
+    "respuesta": "Atomicidad"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando asegura de forma permanente los cambios de una transacción?",
+    "opciones": [
+      "SAVE",
+      "COMMIT",
+      "STORE",
+      "END"
+    ],
+    "respuesta": "COMMIT"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa la propiedad de Durabilidad en ACID?",
+    "opciones": [
+      "No permite NULLs",
+      "Evita lecturas sucias",
+      "Optimiza índices",
+      "Los cambios se conservan ante fallos del sistema"
+    ],
+    "respuesta": "Los cambios se conservan ante fallos del sistema"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué nivel de aislamiento permite lecturas sucias?",
+    "opciones": [
+      "Read Committed",
+      "Repeatable Read",
+      "Read Uncommitted",
+      "Serializable"
+    ],
+    "respuesta": "Read Uncommitted"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una vista materializada?",
+    "opciones": [
+      "Consulta rápida temporal",
+      "Tabla sin índices",
+      "Agrupación sin filtros",
+      "Vista que guarda físicamente los resultados de una consulta"
+    ],
+    "respuesta": "Vista que guarda físicamente los resultados de una consulta"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una tabla de intersección?",
+    "opciones": [
+      "Tabla que resuelve relaciones muchos a muchos",
+      "Vista oculta",
+      "Base sin clave primaria",
+      "Índice primario"
+    ],
+    "respuesta": "Tabla que resuelve relaciones muchos a muchos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace un trigger en una base de datos?",
+    "opciones": [
+      "Ejecuta acciones automáticamente al ocurrir eventos",
+      "Reinicia claves",
+      "Activa usuarios",
+      "Evalúa expresiones lógicas"
+    ],
+    "respuesta": "Ejecuta acciones automáticamente al ocurrir eventos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una transacción anidada?",
+    "opciones": [
+      "Transacción dentro de otra transacción",
+      "Vista duplicada",
+      "Subconsulta de agrupación",
+      "Índice virtual"
+    ],
+    "respuesta": "Transacción dentro de otra transacción"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de clave permite identificar registros en múltiples tablas?",
+    "opciones": [
+      "Clave compuesta",
+      "Clave temporal",
+      "Campo agregado",
+      "Clave duplicada"
+    ],
+    "respuesta": "Clave compuesta"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa escalabilidad horizontal en bases de datos?",
+    "opciones": [
+      "Distribuir la carga entre múltiples servidores",
+      "Aumentar memoria en un solo servidor",
+      "Expandir índices internos",
+      "Crear más tablas en un esquema"
+    ],
+    "respuesta": "Distribuir la carga entre múltiples servidores"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un deadlock?",
+    "opciones": [
+      "Situación en la que dos transacciones se bloquean mutuamente",
+      "Tabla sin clave primaria",
+      "Índice sin uso",
+      "Error de sintaxis SQL"
+    ],
+    "respuesta": "Situación en la que dos transacciones se bloquean mutuamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el sharding?",
+    "opciones": [
+      "Separación de JOINs",
+      "Indexación por rango",
+      "Agrupamiento de vistas",
+      "Partición horizontal de datos en múltiples servidores"
+    ],
+    "respuesta": "Partición horizontal de datos en múltiples servidores"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando revierte una transacción?",
+    "opciones": [
+      "DELETE",
+      "CANCEL",
+      "ROLLBACK",
+      "REJECT"
+    ],
+    "respuesta": "ROLLBACK"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el optimizador de consultas?",
+    "opciones": [
+      "Componente que elige el mejor plan de ejecución",
+      "Filtro de registros duplicados",
+      "Herramienta para hacer backups",
+      "Tipo de índice"
+    ],
+    "respuesta": "Componente que elige el mejor plan de ejecución"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una anomalía de actualización?",
+    "opciones": [
+      "Vista inválida",
+      "Comando sin índice",
+      "Consulta mal ejecutada",
+      "Inconsistencia generada al modificar datos redundantes"
+    ],
+    "respuesta": "Inconsistencia generada al modificar datos redundantes"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica permite tener múltiples versiones de un dato para evitar bloqueos?",
+    "opciones": [
+      "Replication",
+      "Hash Join",
+      "MVCC",
+      "ACID"
+    ],
+    "respuesta": "MVCC"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el plan de ejecución de una consulta?",
+    "opciones": [
+      "Vista con filtros",
+      "Secuencia que muestra cómo el motor accede a los datos",
+      "Trigger disparado por error",
+      "Error de lógica"
+    ],
+    "respuesta": "Secuencia que muestra cómo el motor accede a los datos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa una consulta recursiva?",
+    "opciones": [
+      "Clave duplicada",
+      "JOIN interno",
+      "Índice cruzado",
+      "Consulta que se refiere a sí misma"
+    ],
+    "respuesta": "Consulta que se refiere a sí misma"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando actualiza estadísticas de uso de una tabla?",
+    "opciones": [
+      "REPAIR",
+      "RECALCULATE",
+      "MONITOR",
+      "ANALYZE"
+    ],
+    "respuesta": "ANALYZE"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una función agregada personalizada (UDF)?",
+    "opciones": [
+      "Consulta de emergencia",
+      "Vista oculta",
+      "Función definida por el usuario para cálculos específicos",
+      "Campo primario secundario"
+    ],
+    "respuesta": "Función definida por el usuario para cálculos específicos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué característica distingue una base de datos OLAP?",
+    "opciones": [
+      "Optimizada para consultas analíticas",
+      "Insertos rápidos",
+      "Solo lectura",
+      "Solo para backup"
+    ],
+    "respuesta": "Optimizada para consultas analíticas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué motor de almacenamiento de MySQL soporta transacciones?",
+    "opciones": [
+      "InnoDB",
+      "MEMORY",
+      "MyISAM",
+      "CSV"
+    ],
+    "respuesta": "InnoDB"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una estrategia de replicación?",
+    "opciones": [
+      "Normalización parcial",
+      "Cambio de claves primarias",
+      "Copia de datos entre múltiples servidores para alta disponibilidad",
+      "Agrupamiento de JOINs"
+    ],
+    "respuesta": "Copia de datos entre múltiples servidores para alta disponibilidad"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de índice organiza físicamente los datos de la tabla?",
+    "opciones": [
+      "Hash index",
+      "Full-text index",
+      "Clustered index",
+      "Bitmap index"
+    ],
+    "respuesta": "Clustered index"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica mejora el rendimiento de una base muy consultada?",
+    "opciones": [
+      "Desnormalización total",
+      "Agregación de logs",
+      "Repetición de claves",
+      "Indexación adecuada"
+    ],
+    "respuesta": "Indexación adecuada"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa BASE como alternativa a ACID en NoSQL?",
+    "opciones": [
+      "Bigtable, Array, Sequential, External",
+      "Bounded, Atomic, Secure, External",
+      "Binary Access, State Encapsulated",
+      "Basically Available, Soft state, Eventually consistent"
+    ],
+    "respuesta": "Basically Available, Soft state, Eventually consistent"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una función ventana (window function)?",
+    "opciones": [
+      "Función de agregación duplicada",
+      "Consulta entre dos esquemas",
+      "Función que realiza cálculos sobre un conjunto de filas relacionadas",
+      "JOIN con índice inverso"
+    ],
+    "respuesta": "Función que realiza cálculos sobre un conjunto de filas relacionadas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué diferencia a una tabla temporal de una permanente?",
+    "opciones": [
+      "Admite más columnas",
+      "La temporal se elimina automáticamente al cerrar la sesión",
+      "Requiere normalización",
+      "Tiene más índices"
+    ],
+    "respuesta": "La temporal se elimina automáticamente al cerrar la sesión"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un hash join?",
+    "opciones": [
+      "Algoritmo que usa tablas hash para unir datos",
+      "Tipo de subconsulta",
+      "Comando de truncado",
+      "Índice visual"
+    ],
+    "respuesta": "Algoritmo que usa tablas hash para unir datos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el particionamiento horizontal?",
+    "opciones": [
+      "Dividir filas de una tabla en diferentes particiones",
+      "Separar columnas de una tabla",
+      "Eliminar duplicados",
+      "Reorganizar índices"
+    ],
+    "respuesta": "Dividir filas de una tabla en diferentes particiones"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es la serialización en una base de datos?",
+    "opciones": [
+      "Asegurar que las transacciones se ejecuten como si fueran secuenciales",
+      "Compactar tablas",
+      "Eliminar claves duplicadas",
+      "Cargar vistas en memoria"
+    ],
+    "respuesta": "Asegurar que las transacciones se ejecuten como si fueran secuenciales"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un esquema en una base de datos?",
+    "opciones": [
+      "Ruta de acceso",
+      "Colección estructurada de objetos como tablas y vistas",
+      "Índice visual",
+      "Clave duplicada"
+    ],
+    "respuesta": "Colección estructurada de objetos como tablas y vistas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un archivo WAL (Write-Ahead Logging)?",
+    "opciones": [
+      "Archivo que almacena backups",
+      "Vista resumida",
+      "Reporte de errores",
+      "Archivo que registra cambios antes de aplicarlos a la base de datos"
+    ],
+    "respuesta": "Archivo que registra cambios antes de aplicarlos a la base de datos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué implica desnormalizar una base de datos?",
+    "opciones": [
+      "Eliminar restricciones de clave foránea",
+      "Evitar funciones agregadas",
+      "Reducir claves primarias",
+      "Introducir redundancia para mejorar rendimiento en consultas"
+    ],
+    "respuesta": "Introducir redundancia para mejorar rendimiento en consultas"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿En qué año se fundó Google?",
+    "opciones": [
+      "1996",
+      "1998",
+      "2000",
+      "1994"
+    ],
+    "respuesta": "1998"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado como sucesor de C?",
+    "opciones": [
+      "Java",
+      "Python",
+      "C++",
+      "Perl"
+    ],
+    "respuesta": "C++"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa BIOS?",
+    "opciones": [
+      "Basic Input Output System",
+      "Binary Input Operating Software",
+      "Base Internet Operating System",
+      "Basic Interface Operating System"
+    ],
+    "respuesta": "Basic Input Output System"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue la primera computadora electrónica de propósito general?",
+    "opciones": [
+      "Z3",
+      "EDVAC",
+      "ENIAC",
+      "Mark I"
+    ],
+    "respuesta": "ENIAC"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa RAID en sistemas de almacenamiento?",
+    "opciones": [
+      "Random Access Input Device",
+      "Redundant Array of Independent Disks",
+      "Rapid Access Information Data",
+      "Remote Access In Disk"
+    ],
+    "respuesta": "Redundant Array of Independent Disks"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué componente traduce código de alto nivel a lenguaje máquina?",
+    "opciones": [
+      "Compilador",
+      "Navegador",
+      "Editor de texto",
+      "Firmware"
+    ],
+    "respuesta": "Compilador"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el sistema operativo más utilizado en PCs?",
+    "opciones": [
+      "macOS",
+      "Linux",
+      "Windows",
+      "Android"
+    ],
+    "respuesta": "Windows"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Quién fue el cofundador de Apple junto a Steve Jobs?",
+    "opciones": [
+      "Bill Gates",
+      "Tim Cook",
+      "Steve Wozniak",
+      "Eric Schmidt"
+    ],
+    "respuesta": "Steve Wozniak"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿En qué año se lanzó el primer iPhone?",
+    "opciones": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "respuesta": "2007"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de memoria es volátil?",
+    "opciones": [
+      "ROM",
+      "SSD",
+      "RAM",
+      "HDD"
+    ],
+    "respuesta": "RAM"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el buscador más usado en el mundo?",
+    "opciones": [
+      "Yahoo",
+      "Bing",
+      "DuckDuckGo",
+      "Google"
+    ],
+    "respuesta": "Google"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué empresa desarrolló el sistema operativo Windows?",
+    "opciones": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Linux Foundation"
+    ],
+    "respuesta": "Microsoft"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa CPU?",
+    "opciones": [
+      "Central Processing Unit",
+      "Control Program Utility",
+      "Computer Primary Unit",
+      "Central Print Unit"
+    ],
+    "respuesta": "Central Processing Unit"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿En qué década se inventó el mouse de computadora?",
+    "opciones": [
+      "1970s",
+      "1980s",
+      "1960s",
+      "1990s"
+    ],
+    "respuesta": "1960s"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué sistema operativo fue creado por Linus Torvalds?",
+    "opciones": [
+      "BSD",
+      "Linux",
+      "Solaris",
+      "Windows NT"
+    ],
+    "respuesta": "Linux"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué lenguaje fue el precursor directo de Java?",
+    "opciones": [
+      "C++",
+      "Oak",
+      "Smalltalk",
+      "Ada"
+    ],
+    "respuesta": "Oak"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál fue el primer lenguaje de programación de alto nivel?",
+    "opciones": [
+      "COBOL",
+      "C",
+      "Fortran",
+      "Pascal"
+    ],
+    "respuesta": "Fortran"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué científico propuso el concepto de 'máquina universal'?",
+    "opciones": [
+      "Isaac Newton",
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "respuesta": "Alan Turing"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué navegador fue el más popular en los años 2000?",
+    "opciones": [
+      "Internet Explorer",
+      "Firefox",
+      "Chrome",
+      "Safari"
+    ],
+    "respuesta": "Internet Explorer"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál fue la primera computadora comercial?",
+    "opciones": [
+      "ENIAC",
+      "UNIVAC I",
+      "Colossus",
+      "Z3"
+    ],
+    "respuesta": "UNIVAC I"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué empresa desarrolló el navegador Chrome?",
+    "opciones": [
+      "Mozilla",
+      "Apple",
+      "Google",
+      "Opera"
+    ],
+    "respuesta": "Google"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué arquitectura es usada comúnmente en smartphones modernos?",
+    "opciones": [
+      "x86",
+      "ARM",
+      "MIPS",
+      "SPARC"
+    ],
+    "respuesta": "ARM"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un pendrive?",
+    "opciones": [
+      "Impresora",
+      "Dispositivo de almacenamiento",
+      "Sistema operativo",
+      "Red de computadoras"
+    ],
+    "respuesta": "Dispositivo de almacenamiento"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue la primera computadora con GUI comercialmente exitosa?",
+    "opciones": [
+      "Apple Lisa",
+      "Macintosh",
+      "Xerox Alto",
+      "Windows 95"
+    ],
+    "respuesta": "Macintosh"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Quién creó el lenguaje C?",
+    "opciones": [
+      "Dennis Ritchie",
+      "Bjarne Stroustrup",
+      "Guido van Rossum",
+      "James Gosling"
+    ],
+    "respuesta": "Dennis Ritchie"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje es conocido por usarse en desarrollo web junto con HTML y CSS?",
+    "opciones": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Java"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el sistema UNIX?",
+    "opciones": [
+      "Software de edición",
+      "Sistema operativo multitarea y multiusuario",
+      "Lenguaje de programación",
+      "Base de datos"
+    ],
+    "respuesta": "Sistema operativo multitarea y multiusuario"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo se utiliza para transferencias seguras en la web?",
+    "opciones": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "respuesta": "HTTPS"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue el primer sistema operativo de Microsoft?",
+    "opciones": [
+      "Windows 1.0",
+      "MS-DOS",
+      "Xenix",
+      "NT"
+    ],
+    "respuesta": "Xenix"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué empresa desarrolló el procesador Intel 4004?",
+    "opciones": [
+      "AMD",
+      "Motorola",
+      "Intel",
+      "IBM"
+    ],
+    "respuesta": "Intel"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP se usa para obtener información?",
+    "opciones": [
+      "PUT",
+      "POST",
+      "GET",
+      "DELETE"
+    ],
+    "respuesta": "GET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP indica el tipo de contenido del cuerpo del mensaje?",
+    "opciones": [
+      "Accept",
+      "Content-Type",
+      "Authorization",
+      "Host"
+    ],
+    "respuesta": "Content-Type"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué etiqueta HTML se usa para insertar una imagen?",
+    "opciones": [
+      "<image>",
+      "<pic>",
+      "<src>",
+      "<img>"
+    ],
+    "respuesta": "<img>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la etiqueta HTML para crear un enlace?",
+    "opciones": [
+      "<url>",
+      "<a>",
+      "<href>",
+      "<link>"
+    ],
+    "respuesta": "<a>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS se usa para cambiar el color del texto?",
+    "opciones": [
+      "color",
+      "background-color",
+      "text-color",
+      "font-color"
+    ],
+    "respuesta": "color"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el lenguaje de estilos más usado en la web?",
+    "opciones": [
+      "HTML",
+      "SQL",
+      "CSS",
+      "JS"
+    ],
+    "respuesta": "CSS"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework de Python se usa para desarrollo web?",
+    "opciones": [
+      "Django",
+      "Laravel",
+      "Angular",
+      "React"
+    ],
+    "respuesta": "Django"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework fue creado por Facebook?",
+    "opciones": [
+      "React",
+      "Angular",
+      "Bootstrap",
+      "Vue"
+    ],
+    "respuesta": "React"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP se usa para autenticación?",
+    "opciones": [
+      "Authorization",
+      "Content-Type",
+      "ETag",
+      "Cache-Control"
+    ],
+    "respuesta": "Authorization"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál lenguaje es interpretado?",
+    "opciones": [
+      "Python",
+      "C",
+      "Rust",
+      "C++"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estos es un lenguaje de marcado?",
+    "opciones": [
+      "C#",
+      "Java",
+      "HTML",
+      "Python"
+    ],
+    "respuesta": "HTML"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa CSS?",
+    "opciones": [
+      "Color Style Sheet",
+      "Cascading Style Sheets",
+      "Computer Style Syntax",
+      "Creative Style System"
+    ],
+    "respuesta": "Cascading Style Sheets"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace la etiqueta <br> en HTML?",
+    "opciones": [
+      "Espacio",
+      "Salto de línea",
+      "Texto en negrita",
+      "Encabezado"
+    ],
+    "respuesta": "Salto de línea"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework usa el lenguaje PHP?",
+    "opciones": [
+      "Laravel",
+      "Django",
+      "Express",
+      "Flask"
+    ],
+    "respuesta": "Laravel"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué etiqueta HTML crea una lista no ordenada?",
+    "opciones": [
+      "<li>",
+      "<ul>",
+      "<list>",
+      "<ol>"
+    ],
+    "respuesta": "<ul>"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la propiedad CSS para cambiar el tamaño del texto?",
+    "opciones": [
+      "font",
+      "font-size",
+      "text-size",
+      "size"
+    ],
+    "respuesta": "font-size"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estos métodos HTTP modifica parcialmente un recurso?",
+    "opciones": [
+      "PUT",
+      "PATCH",
+      "POST",
+      "DELETE"
+    ],
+    "respuesta": "PATCH"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué cabecera HTTP se usa para indicar que se aceptan ciertos formatos de respuesta?",
+    "opciones": [
+      "Authorization",
+      "Accept",
+      "Referer",
+      "Host"
+    ],
+    "respuesta": "Accept"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP se usa para eliminar un recurso?",
+    "opciones": [
+      "DELETE",
+      "OPTIONS",
+      "GET",
+      "POST"
+    ],
+    "respuesta": "DELETE"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje es más usado en el desarrollo frontend?",
+    "opciones": [
+      "C++",
+      "PHP",
+      "JavaScript",
+      "Python"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework es más usado para estilos CSS?",
+    "opciones": [
+      "Spring",
+      "Flask",
+      "React",
+      "Bootstrap"
+    ],
+    "respuesta": "Bootstrap"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué símbolo se usa para comentarios en CSS?",
+    "opciones": [
+      "#",
+      "/* */",
+      "//",
+      "<!-- -->"
+    ],
+    "respuesta": "/* */"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué atributo HTML se usa para texto alternativo en imágenes?",
+    "opciones": [
+      "alt",
+      "id",
+      "src",
+      "title"
+    ],
+    "respuesta": "alt"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework es de Java?",
+    "opciones": [
+      "Vue",
+      "Flask",
+      "Spring",
+      "Django"
+    ],
+    "respuesta": "Spring"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP es seguro y sin efectos secundarios?",
+    "opciones": [
+      "GET",
+      "DELETE",
+      "POST",
+      "PUT"
+    ],
+    "respuesta": "GET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS centra un texto?",
+    "opciones": [
+      "center",
+      "text-center",
+      "text-align",
+      "align"
+    ],
+    "respuesta": "text-align"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje se usa para crear la estructura de una web?",
+    "opciones": [
+      "Python",
+      "HTML",
+      "SQL",
+      "CSS"
+    ],
+    "respuesta": "HTML"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje permite agregar lógica a una web?",
+    "opciones": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "XML"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el framework más usado con Node.js?",
+    "opciones": [
+      "Flask",
+      "React",
+      "Express",
+      "Django"
+    ],
+    "respuesta": "Express"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el tipo de entrada HTML para contraseña?",
+    "opciones": [
+      "pwd",
+      "secret",
+      "key",
+      "password"
+    ],
+    "respuesta": "password"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué framework de C# permite construir aplicaciones web?",
+    "opciones": [
+      "Laravel",
+      "ASP.NET",
+      "Express",
+      "Symfony"
+    ],
+    "respuesta": "ASP.NET"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué propiedad CSS cambia el fondo de un elemento?",
+    "opciones": [
+      "background-color",
+      "border",
+      "color",
+      "font"
+    ],
+    "respuesta": "background-color"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa HTTP?",
+    "opciones": [
+      "HyperText Transfer Protocol",
+      "Host Transfer Protocol",
+      "HyperTool Text Protocol",
+      "High Transfer Text Protocol"
+    ],
+    "respuesta": "HyperText Transfer Protocol"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué método HTTP reemplaza un recurso completamente?",
+    "opciones": [
+      "POST",
+      "PUT",
+      "DELETE",
+      "PATCH"
+    ],
+    "respuesta": "PUT"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué atributo HTML define el destino de un enlace?",
+    "opciones": [
+      "href",
+      "src",
+      "alt",
+      "link"
+    ],
+    "respuesta": "href"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿En qué año fue creado Python?",
+    "opciones": [
+      "1995",
+      "1989",
+      "1991",
+      "2000"
+    ],
+    "respuesta": "1991"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Quién creó el lenguaje de programación C?",
+    "opciones": [
+      "Bjarne Stroustrup",
+      "Dennis Ritchie",
+      "Guido van Rossum",
+      "James Gosling"
+    ],
+    "respuesta": "Dennis Ritchie"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Brendan Eich en 1995?",
+    "opciones": [
+      "PHP",
+      "C#",
+      "Python",
+      "JavaScript"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea interpretado?",
+    "opciones": [
+      "Se ejecuta línea por línea",
+      "Se usa en frontend",
+      "Tiene tipado estático",
+      "Se compila a binario"
+    ],
+    "respuesta": "Se ejecuta línea por línea"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue desarrollado por Microsoft?",
+    "opciones": [
+      "C#",
+      "PHP",
+      "Java",
+      "Python"
+    ],
+    "respuesta": "C#"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no es ampliamente conocido?",
+    "opciones": [
+      "Haskell",
+      "C++",
+      "Python",
+      "Java"
+    ],
+    "respuesta": "Haskell"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje está orientado a objetos desde su creación?",
+    "opciones": [
+      "C",
+      "Fortran",
+      "Java",
+      "Assembly"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Bjarne Stroustrup?",
+    "opciones": [
+      "Go",
+      "C++",
+      "C#",
+      "Rust"
+    ],
+    "respuesta": "C++"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para reemplazar Perl?",
+    "opciones": [
+      "Python",
+      "Go",
+      "PHP",
+      "Ruby"
+    ],
+    "respuesta": "PHP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea compilado?",
+    "opciones": [
+      "Solo corre en la web",
+      "Se traduce a código máquina antes de ejecutarse",
+      "Requiere un navegador",
+      "Es interpretado por línea"
+    ],
+    "respuesta": "Se traduce a código máquina antes de ejecutarse"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no fue creado en los 90?",
+    "opciones": [
+      "PHP",
+      "JavaScript",
+      "C",
+      "Java"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje es principalmente usado para estadística?",
+    "opciones": [
+      "Perl",
+      "Ruby",
+      "Python",
+      "R"
+    ],
+    "respuesta": "R"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué base de datos suele usarse con ORMs?",
+    "opciones": [
+      "Redis",
+      "NoSQL",
+      "MongoDB",
+      "SQL"
+    ],
+    "respuesta": "SQL"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue desarrollado por Google?",
+    "opciones": [
+      "Go",
+      "Rust",
+      "Ruby",
+      "Swift"
+    ],
+    "respuesta": "Go"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál de estos lenguajes no es funcional?",
+    "opciones": [
+      "Haskell",
+      "Elixir",
+      "Java",
+      "Lisp"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es una ventaja de los lenguajes compilados?",
+    "opciones": [
+      "Usan menos memoria",
+      "Ejecutan línea por línea",
+      "Mayor compatibilidad con la web",
+      "Mayor velocidad de ejecución"
+    ],
+    "respuesta": "Mayor velocidad de ejecución"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue lanzado en 1995 junto con Netscape?",
+    "opciones": [
+      "Ruby",
+      "Python",
+      "JavaScript",
+      "Rust"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es una desventaja de los lenguajes interpretados?",
+    "opciones": [
+      "Requiere compilación previa",
+      "Mayor velocidad",
+      "Difíciles de depurar",
+      "Menor rendimiento"
+    ],
+    "respuesta": "Menor rendimiento"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál de estos lenguajes fue creado en la década de 2000?",
+    "opciones": [
+      "C",
+      "Java",
+      "PHP",
+      "Rust"
+    ],
+    "respuesta": "Rust"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es popular en Python?",
+    "opciones": [
+      "SQLAlchemy",
+      "Hibernate",
+      "TypeORM",
+      "Eloquent"
+    ],
+    "respuesta": "SQLAlchemy"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es propio de PHP?",
+    "opciones": [
+      "Hibernate",
+      "ActiveRecord",
+      "Eloquent",
+      "SQLAlchemy"
+    ],
+    "respuesta": "Eloquent"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje usa el CLR como entorno de ejecución?",
+    "opciones": [
+      "C#",
+      "JavaScript",
+      "Python",
+      "C++"
+    ],
+    "respuesta": "C#"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Yukihiro Matsumoto?",
+    "opciones": [
+      "Go",
+      "Java",
+      "Swift",
+      "Ruby"
+    ],
+    "respuesta": "Ruby"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado por Guido van Rossum?",
+    "opciones": [
+      "C#",
+      "Ruby",
+      "PHP",
+      "Python"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje de programación fue creado por Sun Microsystems?",
+    "opciones": [
+      "PHP",
+      "C",
+      "C#",
+      "Java"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para aplicaciones de sistemas embebidos?",
+    "opciones": [
+      "Python",
+      "PHP",
+      "JavaScript",
+      "C"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un ORM?",
+    "opciones": [
+      "Sistema de compilación",
+      "Lenguaje funcional",
+      "Mapeo entre objetos y tablas",
+      "Base de datos"
+    ],
+    "respuesta": "Mapeo entre objetos y tablas"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa que un lenguaje sea tipado dinámicamente?",
+    "opciones": [
+      "No se pueden compilar",
+      "Es interpretado",
+      "Las variables no necesitan declarar tipo",
+      "Solo funciona en web"
+    ],
+    "respuesta": "Las variables no necesitan declarar tipo"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje no soporta orientación a objetos?",
+    "opciones": [
+      "Java",
+      "C",
+      "C#",
+      "Python"
+    ],
+    "respuesta": "C"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje tiene sintaxis basada en la indentación?",
+    "opciones": [
+      "Python",
+      "PHP",
+      "C++",
+      "Java"
+    ],
+    "respuesta": "Python"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue diseñado para correr en máquinas virtuales?",
+    "opciones": [
+      "Rust",
+      "C",
+      "Assembly",
+      "Java"
+    ],
+    "respuesta": "Java"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué ORM es popular en Java?",
+    "opciones": [
+      "Hibernate",
+      "SQLAlchemy",
+      "Doctrine",
+      "Eloquent"
+    ],
+    "respuesta": "Hibernate"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál fue el objetivo inicial de la creación de C?",
+    "opciones": [
+      "Desarrollar Unix",
+      "Crear videojuegos",
+      "Educación",
+      "Cálculo científico"
+    ],
+    "respuesta": "Desarrollar Unix"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de lenguaje es Bash?",
+    "opciones": [
+      "Orientado a objetos",
+      "Visual",
+      "Compilado",
+      "Interpretado"
+    ],
+    "respuesta": "Interpretado"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue influenciado por C y usado en Apple?",
+    "opciones": [
+      "Rust",
+      "C#",
+      "Swift",
+      "Kotlin"
+    ],
+    "respuesta": "Swift"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón de diseño permite cambiar el algoritmo sin modificar el objeto que lo usa?",
+    "opciones": [
+      "Strategy",
+      "Observer",
+      "Singleton",
+      "Factory"
+    ],
+    "respuesta": "Strategy"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón garantiza que solo haya una instancia de una clase?",
+    "opciones": [
+      "Singleton",
+      "Adapter",
+      "Builder",
+      "Factory"
+    ],
+    "respuesta": "Singleton"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón permite crear objetos sin especificar la clase exacta?",
+    "opciones": [
+      "Observer",
+      "Factory",
+      "Decorator",
+      "Prototype"
+    ],
+    "respuesta": "Factory"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón encapsula una solicitud como un objeto?",
+    "opciones": [
+      "Facade",
+      "Builder",
+      "Command",
+      "Strategy"
+    ],
+    "respuesta": "Command"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón notifica a otros objetos sobre cambios de estado?",
+    "opciones": [
+      "Decorator",
+      "Adapter",
+      "Factory",
+      "Observer"
+    ],
+    "respuesta": "Observer"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón permite construir objetos paso a paso?",
+    "opciones": [
+      "Bridge",
+      "Builder",
+      "Prototype",
+      "Singleton"
+    ],
+    "respuesta": "Builder"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da 0.1 + 0.2 en JavaScript?",
+    "opciones": [
+      "0.30000000000000004",
+      "NaN",
+      "0.299999",
+      "0.3"
+    ],
+    "respuesta": "0.30000000000000004"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo devuelve typeof NaN en JavaScript?",
+    "opciones": [
+      "'number'",
+      "'object'",
+      "'NaN'",
+      "'undefined'"
+    ],
+    "respuesta": "'number'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué valor da typeof null en JavaScript?",
+    "opciones": [
+      "'null'",
+      "'undefined'",
+      "'object'",
+      "'boolean'"
+    ],
+    "respuesta": "'object'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa IEEE 754?",
+    "opciones": [
+      "Protocolo de red",
+      "Compilador",
+      "Lenguaje de programación",
+      "Estándar de punto flotante"
+    ],
+    "respuesta": "Estándar de punto flotante"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el operador '===' en JavaScript?",
+    "opciones": [
+      "Asigna valores",
+      "Convierte tipos",
+      "Compara valor y tipo",
+      "Solo valor"
+    ],
+    "respuesta": "Compara valor y tipo"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da '5' + 2 en JavaScript?",
+    "opciones": [
+      "'52'",
+      "7",
+      "NaN",
+      "Error"
+    ],
+    "respuesta": "'52'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué operador en JavaScript devuelve true si al menos un operando es true?",
+    "opciones": [
+      "!",
+      "&",
+      "||",
+      "&&"
+    ],
+    "respuesta": "||"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Decorator?",
+    "opciones": [
+      "Crea una instancia única",
+      "Simplifica interfaces",
+      "Agrega funcionalidad a objetos dinámicamente",
+      "Observa cambios"
+    ],
+    "respuesta": "Agrega funcionalidad a objetos dinámicamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón convierte una interfaz a otra esperada por el cliente?",
+    "opciones": [
+      "Observer",
+      "Strategy",
+      "Adapter",
+      "Decorator"
+    ],
+    "respuesta": "Adapter"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón proporciona una interfaz simplificada?",
+    "opciones": [
+      "Builder",
+      "Facade",
+      "Proxy",
+      "Adapter"
+    ],
+    "respuesta": "Facade"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué resultado da 0.3 - 0.2 - 0.1 en IEEE 754?",
+    "opciones": [
+      "1",
+      "≈ -2.775e-17",
+      "0",
+      "NaN"
+    ],
+    "respuesta": "≈ -2.775e-17"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función de JavaScript convierte a número?",
+    "opciones": [
+      "split()",
+      "toString()",
+      "join()",
+      "parseInt()"
+    ],
+    "respuesta": "parseInt()"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es 'undefined' en JavaScript?",
+    "opciones": [
+      "Error",
+      "Una variable declarada sin valor",
+      "Objeto nulo",
+      "Un tipo booleano"
+    ],
+    "respuesta": "Una variable declarada sin valor"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de typeof undefined?",
+    "opciones": [
+      "'null'",
+      "'object'",
+      "'string'",
+      "'undefined'"
+    ],
+    "respuesta": "'undefined'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa coerción en JavaScript?",
+    "opciones": [
+      "Herencia múltiple",
+      "Encapsulamiento",
+      "Conversión implícita de tipos",
+      "Polimorfismo"
+    ],
+    "respuesta": "Conversión implícita de tipos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la diferencia entre let y var en JavaScript?",
+    "opciones": [
+      "var es constante",
+      "let tiene alcance de bloque",
+      "var es más seguro",
+      "let es global"
+    ],
+    "respuesta": "let tiene alcance de bloque"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es el resultado de typeof function(){}?",
+    "opciones": [
+      "'string'",
+      "'method'",
+      "'function'",
+      "'object'"
+    ],
+    "respuesta": "'function'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Prototype?",
+    "opciones": [
+      "Simplifica interfaces",
+      "Crea objetos únicos",
+      "Encapsula algoritmos",
+      "Clona objetos existentes"
+    ],
+    "respuesta": "Clona objetos existentes"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón usa clases abstractas para definir estructuras?",
+    "opciones": [
+      "Observer",
+      "Strategy",
+      "Builder",
+      "Template Method"
+    ],
+    "respuesta": "Template Method"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón controla el acceso a un objeto mediante intermediario?",
+    "opciones": [
+      "Adapter",
+      "Proxy",
+      "Bridge",
+      "Facade"
+    ],
+    "respuesta": "Proxy"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa Infinity en JavaScript?",
+    "opciones": [
+      "Un valor numérico especial",
+      "Error",
+      "Objeto global",
+      "Booleano"
+    ],
+    "respuesta": "Un valor numérico especial"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué ocurre si se divide un número entre cero en JavaScript?",
+    "opciones": [
+      "Error",
+      "NaN",
+      "Infinity",
+      "Undefined"
+    ],
+    "respuesta": "Infinity"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de typeof []?",
+    "opciones": [
+      "'undefined'",
+      "'object'",
+      "'array'",
+      "'list'"
+    ],
+    "respuesta": "'object'"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es NaN?",
+    "opciones": [
+      "Una variable reservada",
+      "Resultado inválido de una operación matemática",
+      "Un objeto especial",
+      "Un tipo de dato"
+    ],
+    "respuesta": "Resultado inválido de una operación matemática"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la salida de parseInt('10px')?",
+    "opciones": [
+      "10",
+      "NaN",
+      "0",
+      "Error"
+    ],
+    "respuesta": "10"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el operador ^ en JavaScript?",
+    "opciones": [
+      "Negación",
+      "Suma",
+      "AND lógico",
+      "XOR bit a bit"
+    ],
+    "respuesta": "XOR bit a bit"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa hoisting en JavaScript?",
+    "opciones": [
+      "Elevación de declaraciones",
+      "Herencia",
+      "Inyección de dependencias",
+      "Polimorfismo"
+    ],
+    "respuesta": "Elevación de declaraciones"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el patrón Chain of Responsibility?",
+    "opciones": [
+      "Crea instancias",
+      "Conecta interfaces incompatibles",
+      "Pasa solicitudes por una cadena de manejadores",
+      "Permite múltiples herencias"
+    ],
+    "respuesta": "Pasa solicitudes por una cadena de manejadores"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué patrón separa abstracción de su implementación?",
+    "opciones": [
+      "Adapter",
+      "Proxy",
+      "Builder",
+      "Bridge"
+    ],
+    "respuesta": "Bridge"
+  }
+  
+]

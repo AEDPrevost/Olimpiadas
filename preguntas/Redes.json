@@ -1,0 +1,1124 @@
+[
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una red de computadoras?",
+    "opciones": [
+      "Programa antivirus",
+      "Conjunto de dispositivos interconectados para compartir recursos",
+      "Sistema operativo moderno",
+      "Red social en línea"
+    ],
+    "respuesta": "Conjunto de dispositivos interconectados para compartir recursos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa IP?",
+    "opciones": [
+      "Internal Port",
+      "Inter Process",
+      "Internet Protocol",
+      "Internet Public"
+    ],
+    "respuesta": "Internet Protocol"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la función de un router?",
+    "opciones": [
+      "Proteger contra virus",
+      "Desarrollar software",
+      "Reproducir contenido multimedia",
+      "Conectar redes diferentes y dirigir el tráfico"
+    ],
+    "respuesta": "Conectar redes diferentes y dirigir el tráfico"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el protocolo más usado para asignar direcciones IP automáticamente?",
+    "opciones": [
+      "DHCP",
+      "HTTP",
+      "DNS",
+      "FTP"
+    ],
+    "respuesta": "DHCP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa LAN?",
+    "opciones": [
+      "Logical Application Node",
+      "Low Access Node",
+      "Long Area Net",
+      "Local Area Network"
+    ],
+    "respuesta": "Local Area Network"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un switch?",
+    "opciones": [
+      "Dispositivo que conecta varios dispositivos en una misma red",
+      "Cliente remoto",
+      "Cortafuegos físico",
+      "Servidor web"
+    ],
+    "respuesta": "Dispositivo que conecta varios dispositivos en una misma red"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué puerto usa HTTP?",
+    "opciones": [
+      "443",
+      "80",
+      "110",
+      "21"
+    ],
+    "respuesta": "80"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace el protocolo DNS?",
+    "opciones": [
+      "Controla accesos",
+      "Detecta ataques",
+      "Traduce nombres de dominio a direcciones IP",
+      "Administra redes sociales"
+    ],
+    "respuesta": "Traduce nombres de dominio a direcciones IP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué protocolo se usa para transferir archivos?",
+    "opciones": [
+      "FTP",
+      "ARP",
+      "ICMP",
+      "SMTP"
+    ],
+    "respuesta": "FTP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa Wi-Fi?",
+    "opciones": [
+      "Wireless Fidelity",
+      "Wide Fiber",
+      "Wide Fidelity",
+      "Wireless File"
+    ],
+    "respuesta": "Wireless Fidelity"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando muestra la configuración IP en Windows?",
+    "opciones": [
+      "ping",
+      "netstat",
+      "route",
+      "ipconfig"
+    ],
+    "respuesta": "ipconfig"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando sirve para probar la conectividad entre dos equipos?",
+    "opciones": [
+      "tracert",
+      "ipconfig",
+      "nslookup",
+      "ping"
+    ],
+    "respuesta": "ping"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué dirección IP es privada?",
+    "opciones": [
+      "8.8.8.8",
+      "1.1.1.1",
+      "192.168.1.1",
+      "172.0.0.1"
+    ],
+    "respuesta": "192.168.1.1"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué capa del modelo OSI se encarga de la transmisión física de bits?",
+    "opciones": [
+      "Capa de Enlace",
+      "Capa de Transporte",
+      "Capa Física",
+      "Capa de Aplicación"
+    ],
+    "respuesta": "Capa Física"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué dispositivo permite salir a Internet desde una red local?",
+    "opciones": [
+      "Gateway",
+      "Modem",
+      "Firewall",
+      "Switch"
+    ],
+    "respuesta": "Gateway"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué dirección identifica de forma única un dispositivo en una red?",
+    "opciones": [
+      "Protocolo TCP",
+      "DNS",
+      "Hostname",
+      "Dirección IP"
+    ],
+    "respuesta": "Dirección IP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una máscara de subred?",
+    "opciones": [
+      "Evita virus",
+      "Sirve para filtrar tráfico",
+      "Cifra la dirección IP",
+      "Define qué parte de una IP pertenece a la red y cuál al host"
+    ],
+    "respuesta": "Define qué parte de una IP pertenece a la red y cuál al host"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estos protocolos pertenece al modelo TCP/IP?",
+    "opciones": [
+      "IPX",
+      "UDP",
+      "NetBEUI",
+      "Token Ring"
+    ],
+    "respuesta": "UDP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué puerto usa HTTPS?",
+    "opciones": [
+      "22",
+      "443",
+      "80",
+      "25"
+    ],
+    "respuesta": "443"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el objetivo del modelo OSI?",
+    "opciones": [
+      "Compilar código fuente",
+      "Enviar archivos por correo",
+      "Conectar discos duros",
+      "Establecer estándares para la comunicación en red"
+    ],
+    "respuesta": "Establecer estándares para la comunicación en red"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué protocolo se usa para enviar correos electrónicos?",
+    "opciones": [
+      "FTP",
+      "SNMP",
+      "SMTP",
+      "POP3"
+    ],
+    "respuesta": "SMTP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una dirección MAC?",
+    "opciones": [
+      "Dispositivo móvil",
+      "IP pública",
+      "Identificador único de hardware de red",
+      "Nombre de dominio"
+    ],
+    "respuesta": "Identificador único de hardware de red"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace un firewall?",
+    "opciones": [
+      "Descarga archivos",
+      "Filtra tráfico no autorizado entre redes",
+      "Administra contraseñas",
+      "Crea redes virtuales"
+    ],
+    "respuesta": "Filtra tráfico no autorizado entre redes"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tecnología permite comunicación en redes móviles?",
+    "opciones": [
+      "HDMI",
+      "4G",
+      "VGA",
+      "NAT"
+    ],
+    "respuesta": "4G"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando se usa para ver rutas de paquetes en Windows?",
+    "opciones": [
+      "telnet",
+      "arp",
+      "netconfig",
+      "tracert"
+    ],
+    "respuesta": "tracert"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué dirección IP es pública?",
+    "opciones": [
+      "10.0.0.1",
+      "172.16.0.2",
+      "192.168.0.5",
+      "8.8.8.8"
+    ],
+    "respuesta": "8.8.8.8"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué dispositivo actúa en la capa de enlace de datos?",
+    "opciones": [
+      "Firewall",
+      "Proxy",
+      "Router",
+      "Switch"
+    ],
+    "respuesta": "Switch"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué protocolo permite acceder a una máquina remotamente?",
+    "opciones": [
+      "POP3",
+      "SMTP",
+      "SSH",
+      "RDP"
+    ],
+    "respuesta": "SSH"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué comando muestra todas las conexiones activas y puertos en uso?",
+    "opciones": [
+      "ping",
+      "tracert",
+      "netstat",
+      "whoami"
+    ],
+    "respuesta": "netstat"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué estándar define las redes inalámbricas Wi-Fi?",
+    "opciones": [
+      "RFC 1918",
+      "IEEE 802.11",
+      "IEEE 802.3",
+      "ISO 27001"
+    ],
+    "respuesta": "IEEE 802.11"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la unidad básica de transmisión de datos en la red?",
+    "opciones": [
+      "Token",
+      "Archivo",
+      "Puerto",
+      "Paquete"
+    ],
+    "respuesta": "Paquete"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa ISP?",
+    "opciones": [
+      "Protocolo seguro",
+      "Sistema de identificación",
+      "Proveedor de servicios de Internet",
+      "Servidor de impresión"
+    ],
+    "respuesta": "Proveedor de servicios de Internet"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué protocolo permite resolución automática de direcciones IP?",
+    "opciones": [
+      "ICMP",
+      "DNS",
+      "DHCP",
+      "SNMP"
+    ],
+    "respuesta": "DHCP"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué capa del modelo OSI utiliza el protocolo TCP?",
+    "opciones": [
+      "Enlace de datos",
+      "Transporte",
+      "Aplicación",
+      "Red"
+    ],
+    "respuesta": "Transporte"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es la función del protocolo ARP?",
+    "opciones": [
+      "Asignar puertos",
+      "Relacionar direcciones IP con direcciones MAC",
+      "Cifrar tráfico",
+      "Filtrar paquetes"
+    ],
+    "respuesta": "Relacionar direcciones IP con direcciones MAC"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la máscara por defecto para una red Clase B?",
+    "opciones": [
+      "255.0.0.0",
+      "255.255.255.128",
+      "255.255.255.0",
+      "255.255.0.0"
+    ],
+    "respuesta": "255.255.0.0"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuántas subredes se pueden obtener usando una máscara /26?",
+    "opciones": [
+      "8",
+      "6",
+      "4",
+      "64"
+    ],
+    "respuesta": "64"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando en Cisco permite configurar una dirección IP en una interfaz?",
+    "opciones": [
+      "assign ip",
+      "set ip",
+      "ip address",
+      "interface ip"
+    ],
+    "respuesta": "ip address"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando se usa para guardar la configuración en Cisco?",
+    "opciones": [
+      "save-config",
+      "save run",
+      "write all",
+      "copy running-config startup-config"
+    ],
+    "respuesta": "copy running-config startup-config"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo de enrutamiento dinámico utiliza el algoritmo Bellman-Ford?",
+    "opciones": [
+      "RIP",
+      "OSPF",
+      "BGP",
+      "EIGRP"
+    ],
+    "respuesta": "RIP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo de enrutamiento es de estado de enlace?",
+    "opciones": [
+      "Static",
+      "OSPF",
+      "RIP",
+      "BGP"
+    ],
+    "respuesta": "OSPF"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace el comando 'show ip interface brief' en Cisco?",
+    "opciones": [
+      "Muestra rutas estáticas",
+      "Reinicia la interfaz",
+      "Activa una interfaz",
+      "Muestra el estado general de todas las interfaces"
+    ],
+    "respuesta": "Muestra el estado general de todas las interfaces"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando muestra la tabla de enrutamiento en Cisco?",
+    "opciones": [
+      "show ip route",
+      "get routes",
+      "route table",
+      "display route"
+    ],
+    "respuesta": "show ip route"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo se considera de vector distancia?",
+    "opciones": [
+      "IS-IS",
+      "OSPF",
+      "RIP",
+      "IGRP"
+    ],
+    "respuesta": "RIP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué valor de métrica usa RIP para calcular rutas?",
+    "opciones": [
+      "Número de saltos",
+      "Delay",
+      "Costo acumulado",
+      "Ancho de banda"
+    ],
+    "respuesta": "Número de saltos"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando habilita una interfaz en Cisco?",
+    "opciones": [
+      "interface on",
+      "no shutdown",
+      "enable port",
+      "set up"
+    ],
+    "respuesta": "no shutdown"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué dirección representa la red en una subred?",
+    "opciones": [
+      "La dirección con todos los bits en 1",
+      "La primera dirección del bloque",
+      "La dirección de broadcast",
+      "La última dirección"
+    ],
+    "respuesta": "La primera dirección del bloque"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo utiliza áreas para segmentar la red?",
+    "opciones": [
+      "RIP",
+      "EIGRP",
+      "STP",
+      "OSPF"
+    ],
+    "respuesta": "OSPF"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo utiliza el algoritmo DUAL?",
+    "opciones": [
+      "EIGRP",
+      "OSPF",
+      "RIP",
+      "BGP"
+    ],
+    "respuesta": "EIGRP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa CIDR?",
+    "opciones": [
+      "Classless Interface Domain Response",
+      "Central IP Domain Range",
+      "Classless Inter-Domain Routing",
+      "Circuit IP Domain Routing"
+    ],
+    "respuesta": "Classless Inter-Domain Routing"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué beneficio ofrece el superneteo?",
+    "opciones": [
+      "Divide redes en más subredes",
+      "Reduce el número de rutas en la tabla de enrutamiento",
+      "Aumenta el número de saltos",
+      "Duplica paquetes de red"
+    ],
+    "respuesta": "Reduce el número de rutas en la tabla de enrutamiento"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es el rango de direcciones válidas para una subred /30?",
+    "opciones": [
+      "4 direcciones, 2 útiles",
+      "8 direcciones, 6 útiles",
+      "6 direcciones, 4 útiles",
+      "2 direcciones, todas útiles"
+    ],
+    "respuesta": "4 direcciones, 2 útiles"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué hace el comando 'enable' en Cisco?",
+    "opciones": [
+      "Accede al modo privilegiado",
+      "Activa un puerto",
+      "Configura VLANs",
+      "Muestra estadísticas"
+    ],
+    "respuesta": "Accede al modo privilegiado"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa VLSM?",
+    "opciones": [
+      "Virtual Local Subnet Management",
+      "Virtual Line Switching Model",
+      "Variable Length Subnet Masking",
+      "Verified LAN Subnet Method"
+    ],
+    "respuesta": "Variable Length Subnet Masking"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando entra al modo configuración global en Cisco?",
+    "opciones": [
+      "configure terminal",
+      "terminal setup",
+      "set global",
+      "global config"
+    ],
+    "respuesta": "configure terminal"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué métrica utiliza OSPF?",
+    "opciones": [
+      "Número de saltos",
+      "Costo basado en el ancho de banda",
+      "Delay total",
+      "Retraso acumulado"
+    ],
+    "respuesta": "Costo basado en el ancho de banda"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué dirección IP se considera de loopback?",
+    "opciones": [
+      "192.168.0.1",
+      "255.255.255.255",
+      "0.0.0.0",
+      "127.0.0.1"
+    ],
+    "respuesta": "127.0.0.1"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la dirección de broadcast para la subred 192.168.1.64/26?",
+    "opciones": [
+      "192.168.1.126",
+      "192.168.1.127",
+      "192.168.1.63",
+      "192.168.1.65"
+    ],
+    "respuesta": "192.168.1.127"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es el número máximo de hosts válidos en una subred /24?",
+    "opciones": [
+      "254",
+      "256",
+      "128",
+      "252"
+    ],
+    "respuesta": "254"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando permite asignar una descripción a una interfaz?",
+    "opciones": [
+      "label",
+      "note",
+      "description",
+      "comment"
+    ],
+    "respuesta": "description"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando se usa para configurar una ruta estática?",
+    "opciones": [
+      "set route",
+      "ip route",
+      "static route",
+      "add ip"
+    ],
+    "respuesta": "ip route"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa el comando 'show running-config'?",
+    "opciones": [
+      "Muestra la configuración activa actual",
+      "Ejecuta pruebas de red",
+      "Activa servicios TCP/IP",
+      "Muestra estadísticas del CPU"
+    ],
+    "respuesta": "Muestra la configuración activa actual"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es el prefijo CIDR equivalente a la máscara 255.255.255.240?",
+    "opciones": [
+      "/28",
+      "/27",
+      "/29",
+      "/26"
+    ],
+    "respuesta": "/28"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué campo de un paquete IP cambia en cada salto?",
+    "opciones": [
+      "Dirección MAC",
+      "Dirección IP de destino",
+      "Número de puerto",
+      "TTL"
+    ],
+    "respuesta": "TTL"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando muestra directamente vecinos OSPF?",
+    "opciones": [
+      "ospf status",
+      "show ip ospf neighbor",
+      "show ip neighbors",
+      "show ospf adjacency"
+    ],
+    "respuesta": "show ip ospf neighbor"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo encapsula directamente tramas Ethernet en redes Cisco?",
+    "opciones": [
+      "CDP",
+      "PPP",
+      "LLDP",
+      "ARP"
+    ],
+    "respuesta": "CDP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué se necesita configurar para que un router participe en OSPF?",
+    "opciones": [
+      "Número de proceso y redes a anunciar",
+      "Nombre del router",
+      "Interfaces físicas",
+      "Tabla NAT"
+    ],
+    "respuesta": "Número de proceso y redes a anunciar"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué dirección es válida en la subred 10.0.4.0/22?",
+    "opciones": [
+      "10.0.8.10",
+      "10.0.0.1",
+      "10.0.3.255",
+      "10.0.5.254"
+    ],
+    "respuesta": "10.0.5.254"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué comando permite verificar si un vecino OSPF está en estado FULL?",
+    "opciones": [
+      "ping ospf",
+      "show ospf detail",
+      "show ip ospf neighbor",
+      "ospf check full"
+    ],
+    "respuesta": "show ip ospf neighbor"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la máscara que permite crear exactamente 62 hosts válidos en una red?",
+    "opciones": [
+      "255.255.255.192",
+      "255.255.255.224",
+      "255.255.255.248",
+      "255.255.255.240"
+    ],
+    "respuesta": "255.255.255.192"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la cantidad máxima de subredes /30 que se pueden crear en una red Clase C?",
+    "opciones": [
+      "16",
+      "128",
+      "32",
+      "64"
+    ],
+    "respuesta": "64"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando en Cisco Packet Tracer verifica el contenido de la tabla ARP?",
+    "opciones": [
+      "display arp",
+      "show arp",
+      "show mac-address-table",
+      "arp table"
+    ],
+    "respuesta": "show arp"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de OSPF router conecta diferentes áreas OSPF?",
+    "opciones": [
+      "DR",
+      "ABR (Area Border Router)",
+      "BDR",
+      "ASBR"
+    ],
+    "respuesta": "ABR (Area Border Router)"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un resumen de rutas (route summarization)?",
+    "opciones": [
+      "Aumentar métricas",
+      "Configurar subinterfaces",
+      "Agrupar múltiples rutas en una sola entrada",
+      "Eliminar rutas estáticas"
+    ],
+    "respuesta": "Agrupar múltiples rutas en una sola entrada"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando en Cisco muestra el contenido del archivo de configuración guardado?",
+    "opciones": [
+      "show startup-config",
+      "show saved-config",
+      "view boot",
+      "show config"
+    ],
+    "respuesta": "show startup-config"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de mensaje ICMP es usado por el comando ping?",
+    "opciones": [
+      "Destination Unreachable",
+      "Echo Reply",
+      "Echo Request",
+      "Time Exceeded"
+    ],
+    "respuesta": "Echo Request"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué número de área es comúnmente usada para el backbone en OSPF?",
+    "opciones": [
+      "Área 10",
+      "Área 0",
+      "Área 255",
+      "Área 1"
+    ],
+    "respuesta": "Área 0"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa que una ruta OSPF tenga estado FULL con un vecino?",
+    "opciones": [
+      "Solo hay conectividad unidireccional",
+      "La ruta es estática",
+      "El vecino no está disponible",
+      "La base de datos LSDB ha sido completamente sincronizada"
+    ],
+    "respuesta": "La base de datos LSDB ha sido completamente sincronizada"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué diferencia hay entre OSPF y RIP respecto al convergencia?",
+    "opciones": [
+      "RIP no converge",
+      "RIP es más rápido",
+      "OSPF converge más rápido que RIP",
+      "Ambos convergen igual"
+    ],
+    "respuesta": "OSPF converge más rápido que RIP"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué representa el protocolo BGP en Internet?",
+    "opciones": [
+      "Gestor de claves criptográficas",
+      "Enrutamiento entre sistemas autónomos",
+      "Protocolo de transporte de video",
+      "Switching entre VLANs"
+    ],
+    "respuesta": "Enrutamiento entre sistemas autónomos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de NAT traduce múltiples IP privadas a una sola pública usando puertos?",
+    "opciones": [
+      "PAT (Port Address Translation)",
+      "One-to-One NAT",
+      "Static NAT",
+      "Dynamic NAT"
+    ],
+    "respuesta": "PAT (Port Address Translation)"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué tipo de encapsulación es común en enlaces punto a punto en Cisco?",
+    "opciones": [
+      "HDLC",
+      "PPP",
+      "GRE",
+      "802.1Q"
+    ],
+    "respuesta": "PPP"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo usa el algoritmo SPF?",
+    "opciones": [
+      "RIP",
+      "EIGRP",
+      "OSPF",
+      "BGP"
+    ],
+    "respuesta": "OSPF"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué campo cambia constantemente en cada router en una trama Ethernet?",
+    "opciones": [
+      "Número de puerto TCP",
+      "IP destino",
+      "Payload",
+      "MAC origen"
+    ],
+    "respuesta": "MAC origen"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo permite autenticación en OSPF?",
+    "opciones": [
+      "DNS",
+      "RIP v1",
+      "ICMP",
+      "OSPF con MD5 o plaintext"
+    ],
+    "respuesta": "OSPF con MD5 o plaintext"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el comando 'debug ip rip' en Cisco?",
+    "opciones": [
+      "Muestra estadísticas OSPF",
+      "Activa RIP",
+      "Configura rutas estáticas",
+      "Muestra en tiempo real el tráfico RIP"
+    ],
+    "respuesta": "Muestra en tiempo real el tráfico RIP"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es el ID OSPF de un router si no se configura manualmente?",
+    "opciones": [
+      "No tiene ID",
+      "La IP más baja global",
+      "La IP más alta configurada en una interfaz activa",
+      "La IP más baja del loopback"
+    ],
+    "respuesta": "La IP más alta configurada en una interfaz activa"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una red discontigua en términos de OSPF?",
+    "opciones": [
+      "Redes que no comparten prefijos y están separadas por otra red",
+      "Redes conectadas a un mismo switch",
+      "Redes en la misma VLAN",
+      "Redes sin máscaras"
+    ],
+    "respuesta": "Redes que no comparten prefijos y están separadas por otra red"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué parámetro define la prioridad de elección de DR en OSPF?",
+    "opciones": [
+      "ospf area weight",
+      "interface-id",
+      "cost",
+      "ip ospf priority"
+    ],
+    "respuesta": "ip ospf priority"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa un LS Type 1 en OSPF?",
+    "opciones": [
+      "Resumen de red externa",
+      "Router LSA que describe enlaces internos al área",
+      "Ruta estática",
+      "Enlace backbone"
+    ],
+    "respuesta": "Router LSA que describe enlaces internos al área"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando muestra los LSA recibidos en un router OSPF?",
+    "opciones": [
+      "show lsa detail",
+      "show ospf lsdb",
+      "show ip route ospf",
+      "show ip ospf database"
+    ],
+    "respuesta": "show ip ospf database"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo de enrutamiento usa el número de sistema autónomo (ASN)?",
+    "opciones": [
+      "OSPF",
+      "EIGRP",
+      "BGP",
+      "RIP"
+    ],
+    "respuesta": "BGP"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo permite balanceo de carga igual-cost en múltiples rutas?",
+    "opciones": [
+      "BGP",
+      "OSPF",
+      "IGMP",
+      "STP"
+    ],
+    "respuesta": "OSPF"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa el código C en la tabla de enrutamiento?",
+    "opciones": [
+      "Conectividad en modo pasivo",
+      "Red conectada directamente",
+      "Red externa",
+      "Ruta calculada"
+    ],
+    "respuesta": "Red conectada directamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué sucede si no se configura 'no auto-summary' en EIGRP?",
+    "opciones": [
+      "Se eliminan rutas duplicadas",
+      "Se realiza resumen automático de rutas",
+      "Se desactiva el protocolo",
+      "El router se reinicia"
+    ],
+    "respuesta": "Se realiza resumen automático de rutas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué ventaja ofrece el uso de VLSM?",
+    "opciones": [
+      "Uso más eficiente del espacio de direcciones IP",
+      "Mayor seguridad",
+      "Menor latencia",
+      "Mayor velocidad en routers"
+    ],
+    "respuesta": "Uso más eficiente del espacio de direcciones IP"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo es usado para detección de errores a nivel de enlace en Ethernet?",
+    "opciones": [
+      "CRC",
+      "ICMP",
+      "ARP",
+      "RIP"
+    ],
+    "respuesta": "CRC"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué valor TTL se establece por defecto en una solicitud ping?",
+    "opciones": [
+      "64",
+      "255",
+      "1",
+      "128"
+    ],
+    "respuesta": "64"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué hace el comando 'ip ospf cost 10' en una interfaz?",
+    "opciones": [
+      "Activa el costeo automático",
+      "Establece el costo del enlace para OSPF manualmente",
+      "Asigna prioridad",
+      "Resetea el costo"
+    ],
+    "respuesta": "Establece el costo del enlace para OSPF manualmente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es una ruta flotante en Cisco?",
+    "opciones": [
+      "Ruta estática con una métrica más alta que las rutas dinámicas",
+      "Ruta de broadcast",
+      "Ruta establecida por RIP",
+      "Enlace con múltiples puertos"
+    ],
+    "respuesta": "Ruta estática con una métrica más alta que las rutas dinámicas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando verifica vecinos EIGRP?",
+    "opciones": [
+      "show eigrp",
+      "show ip route",
+      "show ip eigrp neighbors",
+      "neighbor list"
+    ],
+    "respuesta": "show ip eigrp neighbors"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué comando en Cisco permite identificar puertos activos en una VLAN?",
+    "opciones": [
+      "show interfaces status",
+      "show vlan brief",
+      "show vlan ports",
+      "vlan show active"
+    ],
+    "respuesta": "show interfaces status"
+  }
+]

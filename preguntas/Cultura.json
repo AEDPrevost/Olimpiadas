@@ -1,0 +1,332 @@
+[
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿En qué año se fundó Google?",
+    "opciones": [
+      "1996",
+      "1998",
+      "2000",
+      "1994"
+    ],
+    "respuesta": "1998"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué lenguaje fue creado como sucesor de C?",
+    "opciones": [
+      "Java",
+      "Python",
+      "C++",
+      "Perl"
+    ],
+    "respuesta": "C++"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué significa BIOS?",
+    "opciones": [
+      "Basic Input Output System",
+      "Binary Input Operating Software",
+      "Base Internet Operating System",
+      "Basic Interface Operating System"
+    ],
+    "respuesta": "Basic Input Output System"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue la primera computadora electrónica de propósito general?",
+    "opciones": [
+      "Z3",
+      "EDVAC",
+      "ENIAC",
+      "Mark I"
+    ],
+    "respuesta": "ENIAC"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué significa RAID en sistemas de almacenamiento?",
+    "opciones": [
+      "Random Access Input Device",
+      "Redundant Array of Independent Disks",
+      "Rapid Access Information Data",
+      "Remote Access In Disk"
+    ],
+    "respuesta": "Redundant Array of Independent Disks"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué componente traduce código de alto nivel a lenguaje máquina?",
+    "opciones": [
+      "Compilador",
+      "Navegador",
+      "Editor de texto",
+      "Firmware"
+    ],
+    "respuesta": "Compilador"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el sistema operativo más utilizado en PCs?",
+    "opciones": [
+      "macOS",
+      "Linux",
+      "Windows",
+      "Android"
+    ],
+    "respuesta": "Windows"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Quién fue el cofundador de Apple junto a Steve Jobs?",
+    "opciones": [
+      "Bill Gates",
+      "Tim Cook",
+      "Steve Wozniak",
+      "Eric Schmidt"
+    ],
+    "respuesta": "Steve Wozniak"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿En qué año se lanzó el primer iPhone?",
+    "opciones": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "respuesta": "2007"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de memoria es volátil?",
+    "opciones": [
+      "ROM",
+      "SSD",
+      "RAM",
+      "HDD"
+    ],
+    "respuesta": "RAM"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es el buscador más usado en el mundo?",
+    "opciones": [
+      "Yahoo",
+      "Bing",
+      "DuckDuckGo",
+      "Google"
+    ],
+    "respuesta": "Google"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué empresa desarrolló el sistema operativo Windows?",
+    "opciones": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Linux Foundation"
+    ],
+    "respuesta": "Microsoft"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa CPU?",
+    "opciones": [
+      "Central Processing Unit",
+      "Control Program Utility",
+      "Computer Primary Unit",
+      "Central Print Unit"
+    ],
+    "respuesta": "Central Processing Unit"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿En qué década se inventó el mouse de computadora?",
+    "opciones": [
+      "1970s",
+      "1980s",
+      "1960s",
+      "1990s"
+    ],
+    "respuesta": "1960s"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué sistema operativo fue creado por Linus Torvalds?",
+    "opciones": [
+      "BSD",
+      "Linux",
+      "Solaris",
+      "Windows NT"
+    ],
+    "respuesta": "Linux"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué lenguaje fue el precursor directo de Java?",
+    "opciones": [
+      "C++",
+      "Oak",
+      "Smalltalk",
+      "Ada"
+    ],
+    "respuesta": "Oak"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál fue el primer lenguaje de programación de alto nivel?",
+    "opciones": [
+      "COBOL",
+      "C",
+      "Fortran",
+      "Pascal"
+    ],
+    "respuesta": "Fortran"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué científico propuso el concepto de 'máquina universal'?",
+    "opciones": [
+      "Isaac Newton",
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann"
+    ],
+    "respuesta": "Alan Turing"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué navegador fue el más popular en los años 2000?",
+    "opciones": [
+      "Internet Explorer",
+      "Firefox",
+      "Chrome",
+      "Safari"
+    ],
+    "respuesta": "Internet Explorer"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál fue la primera computadora comercial?",
+    "opciones": [
+      "ENIAC",
+      "UNIVAC I",
+      "Colossus",
+      "Z3"
+    ],
+    "respuesta": "UNIVAC I"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué empresa desarrolló el navegador Chrome?",
+    "opciones": [
+      "Mozilla",
+      "Apple",
+      "Google",
+      "Opera"
+    ],
+    "respuesta": "Google"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué arquitectura es usada comúnmente en smartphones modernos?",
+    "opciones": [
+      "x86",
+      "ARM",
+      "MIPS",
+      "SPARC"
+    ],
+    "respuesta": "ARM"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un pendrive?",
+    "opciones": [
+      "Impresora",
+      "Dispositivo de almacenamiento",
+      "Sistema operativo",
+      "Red de computadoras"
+    ],
+    "respuesta": "Dispositivo de almacenamiento"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue la primera computadora con GUI comercialmente exitosa?",
+    "opciones": [
+      "Apple Lisa",
+      "Macintosh",
+      "Xerox Alto",
+      "Windows 95"
+    ],
+    "respuesta": "Macintosh"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Quién creó el lenguaje C?",
+    "opciones": [
+      "Dennis Ritchie",
+      "Bjarne Stroustrup",
+      "Guido van Rossum",
+      "James Gosling"
+    ],
+    "respuesta": "Dennis Ritchie"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué lenguaje es conocido por usarse en desarrollo web junto con HTML y CSS?",
+    "opciones": [
+      "Python",
+      "C++",
+      "JavaScript",
+      "Java"
+    ],
+    "respuesta": "JavaScript"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el sistema UNIX?",
+    "opciones": [
+      "Software de edición",
+      "Sistema operativo multitarea y multiusuario",
+      "Lenguaje de programación",
+      "Base de datos"
+    ],
+    "respuesta": "Sistema operativo multitarea y multiusuario"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo se utiliza para transferencias seguras en la web?",
+    "opciones": [
+      "HTTP",
+      "FTP",
+      "HTTPS",
+      "SMTP"
+    ],
+    "respuesta": "HTTPS"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál fue el primer sistema operativo de Microsoft?",
+    "opciones": [
+      "Windows 1.0",
+      "MS-DOS",
+      "Xenix",
+      "NT"
+    ],
+    "respuesta": "Xenix"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué empresa desarrolló el procesador Intel 4004?",
+    "opciones": [
+      "AMD",
+      "Motorola",
+      "Intel",
+      "IBM"
+    ],
+    "respuesta": "Intel"
+  }
+]

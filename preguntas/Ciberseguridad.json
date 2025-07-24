@@ -1,0 +1,662 @@
+[
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de software ayuda a proteger tu computadora de virus?",
+    "opciones": [
+      "Antivirus",
+      "Editor de texto",
+      "Navegador",
+      "Calculadora"
+    ],
+    "respuesta": "Antivirus"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa 'https' en una URL?",
+    "opciones": [
+      "Protocolo de red segura",
+      "Hipervínculo temporal",
+      "HTML avanzado",
+      "Página sin formato"
+    ],
+    "respuesta": "Protocolo de red segura"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de estas opciones es una buena práctica de seguridad?",
+    "opciones": [
+      "Cambiar contraseñas regularmente",
+      "Escribir contraseñas en papel",
+      "Usar '1234' como clave",
+      "Desactivar el firewall"
+    ],
+    "respuesta": "Cambiar contraseñas regularmente"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un archivo adjunto sospechoso?",
+    "opciones": [
+      "Archivo inesperado de origen desconocido",
+      "Imagen de vacaciones",
+      "Documento de Word",
+      "Foto familiar"
+    ],
+    "respuesta": "Archivo inesperado de origen desconocido"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué puede ocurrir si haces clic en enlaces de correos fraudulentos?",
+    "opciones": [
+      "Instalación de malware",
+      "Mejoras de seguridad",
+      "Limpieza del disco",
+      "Actualización de software"
+    ],
+    "respuesta": "Instalación de malware"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un ataque de 'phishing'?",
+    "opciones": [
+      "Intento de obtener datos personales con engaños",
+      "Ataque físico a hardware",
+      "Descarga de archivos grandes",
+      "Actualización automática"
+    ],
+    "respuesta": "Intento de obtener datos personales con engaños"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál de los siguientes es un ejemplo de dato sensible?",
+    "opciones": [
+      "Número de tarjeta de crédito",
+      "Color favorito",
+      "Nombre de tu mascota",
+      "Ciudad natal"
+    ],
+    "respuesta": "Número de tarjeta de crédito"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué se recomienda al crear contraseñas?",
+    "opciones": [
+      "Usar símbolos, números y letras",
+      "Repetir tu nombre",
+      "Solo letras",
+      "Una palabra corta"
+    ],
+    "respuesta": "Usar símbolos, números y letras"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una red WiFi pública?",
+    "opciones": [
+      "Red sin contraseña en espacios abiertos",
+      "Red doméstica",
+      "Red de dispositivos Bluetooth",
+      "Red segura universitaria"
+    ],
+    "respuesta": "Red sin contraseña en espacios abiertos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Por qué no es seguro compartir contraseñas?",
+    "opciones": [
+      "Porque otros podrían acceder a tu información",
+      "Porque consume internet",
+      "Porque es ilegal",
+      "Porque gasta batería"
+    ],
+    "respuesta": "Porque otros podrían acceder a tu información"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué significa 2FA?",
+    "opciones": [
+      "Autenticación en dos pasos",
+      "Antivirus de fábrica",
+      "Acceso fijo al sistema",
+      "Archivo final adjunto"
+    ],
+    "respuesta": "Autenticación en dos pasos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué debes hacer si recibes un correo sospechoso?",
+    "opciones": [
+      "No abrirlo y reportarlo",
+      "Responderlo rápido",
+      "Reenviarlo a tus contactos",
+      "Descargar sus archivos"
+    ],
+    "respuesta": "No abrirlo y reportarlo"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Cuál es una señal clara de un sitio web inseguro?",
+    "opciones": [
+      "No tiene el candado en la barra del navegador",
+      "Está en inglés",
+      "Es muy lento",
+      "Tiene pocas imágenes"
+    ],
+    "respuesta": "No tiene el candado en la barra del navegador"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué herramienta ayuda a gestionar múltiples contraseñas?",
+    "opciones": [
+      "Administrador de contraseñas",
+      "Calendario",
+      "Calculadora",
+      "Galería de fotos"
+    ],
+    "respuesta": "Administrador de contraseñas"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué debes evitar hacer en una red pública?",
+    "opciones": [
+      "Acceder a cuentas bancarias",
+      "Leer noticias",
+      "Ver videos de cocina",
+      "Leer correos promocionales"
+    ],
+    "respuesta": "Acceder a cuentas bancarias"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué tipo de archivos pueden contener virus?",
+    "opciones": [
+      ".exe",
+      ".jpg",
+      ".txt",
+      ".mp3"
+    ],
+    "respuesta": ".exe"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una política de privacidad?",
+    "opciones": [
+      "Documento que indica cómo se usan tus datos",
+      "Manual de usuario",
+      "Antivirus gratuito",
+      "Menú de ayuda"
+    ],
+    "respuesta": "Documento que indica cómo se usan tus datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es una contraseña segura?",
+    "opciones": [
+      "T3st$EgUr0_89",
+      "miapellido",
+      "12345678",
+      "nombre123"
+    ],
+    "respuesta": "T3st$EgUr0_89"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Por qué actualizar el software mejora la seguridad?",
+    "opciones": [
+      "Corrige vulnerabilidades conocidas",
+      "Hace que todo se vea nuevo",
+      "Consume más batería",
+      "Borra archivos antiguos"
+    ],
+    "respuesta": "Corrige vulnerabilidades conocidas"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace un firewall?",
+    "opciones": [
+      "Filtra el tráfico de red",
+      "Aumenta el volumen",
+      "Conecta el wifi",
+      "Imprime documentos"
+    ],
+    "respuesta": "Filtra el tráfico de red"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un malware?",
+    "opciones": [
+      "Software malicioso",
+      "Herramienta de diseño",
+      "Antivirus",
+      "Aplicación musical"
+    ],
+    "respuesta": "Software malicioso"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un backup?",
+    "opciones": [
+      "Copia de seguridad de datos",
+      "Cierre de sesión",
+      "Cambio de usuario",
+      "Limpieza de archivos temporales"
+    ],
+    "respuesta": "Copia de seguridad de datos"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es un captcha?",
+    "opciones": [
+      "Prueba para diferenciar humanos de bots",
+      "Error de sistema",
+      "Teclado virtual",
+      "Contraseña cifrada"
+    ],
+    "respuesta": "Prueba para diferenciar humanos de bots"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué hace un software espía (spyware)?",
+    "opciones": [
+      "Roba información del usuario",
+      "Mejora la conexión a internet",
+      "Borra virus",
+      "Organiza carpetas"
+    ],
+    "respuesta": "Roba información del usuario"
+  },
+  {
+    "nivel": "Fácil",
+    "pregunta": "¿Qué es el cifrado de datos?",
+    "opciones": [
+      "Transformar información para que solo sea legible con clave",
+      "Eliminar archivos duplicados",
+      "Reducir tamaño del archivo",
+      "Proteger hardware de golpes"
+    ],
+    "respuesta": "Transformar información para que solo sea legible con clave"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta de línea de comandos se utiliza en Linux para escanear puertos?",
+    "opciones": [
+      "netstat",
+      "ping",
+      "nmap",
+      "curl"
+    ],
+    "respuesta": "nmap"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la función de un IDS (Sistema de Detección de Intrusos)?",
+    "opciones": [
+      "Cifrar datos",
+      "Detectar actividad maliciosa en la red",
+      "Almacenar registros de acceso",
+      "Autenticar usuarios"
+    ],
+    "respuesta": "Detectar actividad maliciosa en la red"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Cuál es la función de una política de contraseñas?",
+    "opciones": [
+      "Eliminar usuarios inactivos",
+      "Establecer directrices para crear contraseñas seguras",
+      "Evitar que se compartan archivos",
+      "Detectar anomalías de red"
+    ],
+    "respuesta": "Establecer directrices para crear contraseñas seguras"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué tipo de ataque se basa en enviar correos electrónicos falsos para robar credenciales?",
+    "opciones": [
+      "Phishing",
+      "Spoofing",
+      "Sniffing",
+      "Brute force"
+    ],
+    "respuesta": "Phishing"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué método se utiliza para asegurar que un archivo no ha sido alterado?",
+    "opciones": [
+      "Compresión",
+      "Hashing",
+      "Compilación",
+      "Cifrado"
+    ],
+    "respuesta": "Hashing"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué protocolo seguro reemplaza a Telnet?",
+    "opciones": [
+      "FTP",
+      "SSH",
+      "HTTP",
+      "SMTP"
+    ],
+    "respuesta": "SSH"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta se usa para capturar tráfico en una red?",
+    "opciones": [
+      "Snort",
+      "Wireshark",
+      "Cain & Abel",
+      "Hydra"
+    ],
+    "respuesta": "Wireshark"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué puerto se usa por defecto para HTTPS?",
+    "opciones": [
+      "21",
+      "22",
+      "80",
+      "443"
+    ],
+    "respuesta": "443"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es una botnet?",
+    "opciones": [
+      "Un tipo de antivirus",
+      "Una red de dispositivos infectados controlados remotamente",
+      "Una herramienta de monitoreo de red",
+      "Un cortafuegos físico"
+    ],
+    "respuesta": "Una red de dispositivos infectados controlados remotamente"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué técnica busca vulnerabilidades desconocidas antes de que sean públicas?",
+    "opciones": [
+      "Zero-day",
+      "Patch Tuesday",
+      "Pharming",
+      "Backdoor"
+    ],
+    "respuesta": "Zero-day"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué herramienta automatiza pruebas de seguridad contra vulnerabilidades web?",
+    "opciones": [
+      "Nessus",
+      "ZAP",
+      "Postman",
+      "Fiddler"
+    ],
+    "respuesta": "ZAP"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué representa la sigla CVE?",
+    "opciones": [
+      "Critical Vulnerability Exposure",
+      "Common Vulnerabilities and Exposures",
+      "Cybersecurity Verified Event",
+      "Computer Virus Evaluation"
+    ],
+    "respuesta": "Common Vulnerabilities and Exposures"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un 'ataque de fuerza bruta'?",
+    "opciones": [
+      "Explotar una vulnerabilidad ya conocida",
+      "Intentar todas las combinaciones posibles para descubrir una contraseña",
+      "Redireccionar el tráfico DNS",
+      "Enviar malware a través de USB"
+    ],
+    "respuesta": "Intentar todas las combinaciones posibles para descubrir una contraseña"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué es un 'keylogger'?",
+    "opciones": [
+      "Programa para gestionar contraseñas",
+      "Herramienta para capturar pulsaciones del teclado",
+      "Software de respaldo de datos",
+      "Extensión de navegador"
+    ],
+    "respuesta": "Herramienta para capturar pulsaciones del teclado"
+  },
+  {
+    "nivel": "Medio",
+    "pregunta": "¿Qué componente de seguridad se encarga del cifrado de datos en redes privadas?",
+    "opciones": [
+      "VPN",
+      "Firewall",
+      "Proxy",
+      "Antivirus"
+    ],
+    "respuesta": "VPN"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de canal lateral?",
+    "opciones": [
+      "Ataque de enumeración",
+      "Aprovechamiento de información física como tiempo o consumo eléctrico",
+      "Sistema de detección de intrusos",
+      "Falsificación digital"
+    ],
+    "respuesta": "Aprovechamiento de información física como tiempo o consumo eléctrico"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función cumple el algoritmo bcrypt en ciberseguridad?",
+    "opciones": [
+      "Suplantación del usuario",
+      "Hashing de contraseñas con protección frente a ataques por diccionario",
+      "Fallo de autenticación",
+      "Explotación silenciosa"
+    ],
+    "respuesta": "Hashing de contraseñas con protección frente a ataques por diccionario"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica mitiga ataques de inyección SQL?",
+    "opciones": [
+      "Consultas parametrizadas",
+      "VPN sobre HTTPS",
+      "Compresión de datos",
+      "Uso de cookies"
+    ],
+    "respuesta": "Consultas parametrizadas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué son los registros DNS 'TXT' usados en SPF y DKIM?",
+    "opciones": [
+      "Suplantación del usuario",
+      "Para autenticación de correos electrónicos y prevenir spoofing",
+      "Captura de sesión",
+      "Código embebido malicioso"
+    ],
+    "respuesta": "Para autenticación de correos electrónicos y prevenir spoofing"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué protocolo cifra el tráfico entre cliente y servidor en VPNs modernas?",
+    "opciones": [
+      "Acceso persistente",
+      "Explotación silenciosa",
+      "Suplantación del usuario",
+      "OpenVPN o WireGuard"
+    ],
+    "respuesta": "OpenVPN o WireGuard"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se logra con el 'code obfuscation' en software?",
+    "opciones": [
+      "Reducir el tamaño del archivo ejecutable",
+      "Acelerar ejecución",
+      "Evitar actualizaciones de seguridad",
+      "Proteger el código de ingeniería inversa"
+    ],
+    "respuesta": "Proteger el código de ingeniería inversa"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué herramienta se usa comúnmente para auditoría de contraseñas en sistemas Linux?",
+    "opciones": [
+      "John the Ripper",
+      "OpenSSL",
+      "Aircrack-ng",
+      "Tcpdump"
+    ],
+    "respuesta": "John the Ripper"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de 'cross-site scripting persistente' (XSS persistente)?",
+    "opciones": [
+      "Falsificación digital",
+      "Acceso no autorizado",
+      "Código embebido malicioso",
+      "Cuando el código malicioso queda almacenado y se ejecuta con cada visita"
+    ],
+    "respuesta": "Cuando el código malicioso queda almacenado y se ejecuta con cada visita"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica permite escalar privilegios en un sistema?",
+    "opciones": [
+      "Falsificación digital",
+      "Sistema de detección de intrusos",
+      "Acceso persistente",
+      "Explotación de vulnerabilidad local"
+    ],
+    "respuesta": "Explotación de vulnerabilidad local"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué función tiene un SIEM en ciberseguridad?",
+    "opciones": [
+      "Gestión de direcciones IP públicas",
+      "Explotación silenciosa",
+      "Análisis y correlación de eventos de seguridad",
+      "Sistema de detección de intrusos"
+    ],
+    "respuesta": "Análisis y correlación de eventos de seguridad"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se explora con un ataque de fuzzing?",
+    "opciones": [
+      "Introducción de entradas inválidas para descubrir fallos",
+      "Fallo de autenticación",
+      "Sistema de detección de intrusos",
+      "Ataque de enumeración"
+    ],
+    "respuesta": "Introducción de entradas inválidas para descubrir fallos"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de DLL hijacking?",
+    "opciones": [
+      "Sustitución de librerías dinámicas por versiones maliciosas",
+      "Falsificación digital",
+      "Ataque de enumeración",
+      "Captura de sesión"
+    ],
+    "respuesta": "Sustitución de librerías dinámicas por versiones maliciosas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Cuál es la finalidad de una tabla arcoíris (rainbow table)?",
+    "opciones": [
+      "Descifrar hashes mediante precomputación",
+      "Sistema de detección de intrusos",
+      "Suplantación del usuario",
+      "Falsificación digital"
+    ],
+    "respuesta": "Descifrar hashes mediante precomputación"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es un ataque de fuerza bruta inverso?",
+    "opciones": [
+      "Sistema de detección de intrusos",
+      "Probar múltiples usuarios con una contraseña común",
+      "Captura de sesión",
+      "Ataque de enumeración"
+    ],
+    "respuesta": "Probar múltiples usuarios con una contraseña común"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué implica una fuga de memoria en software?",
+    "opciones": [
+      "Pérdida de control sobre el uso de RAM por una app",
+      "Acceso persistente",
+      "Captura de sesión",
+      "Falsificación digital"
+    ],
+    "respuesta": "Pérdida de control sobre el uso de RAM por una app"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué técnica usa un atacante para persistencia en el sistema?",
+    "opciones": [
+      "Acceso no autorizado",
+      "Sistema de detección de intrusos",
+      "Modificar claves de arranque o tareas programadas",
+      "Suplantación del usuario"
+    ],
+    "respuesta": "Modificar claves de arranque o tareas programadas"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué se entiende por seguridad por oscuridad?",
+    "opciones": [
+      "Ataque de enumeración",
+      "Sistema de detección de intrusos",
+      "Explotación silenciosa",
+      "Ocultar detalles del sistema en lugar de protegerlos correctamente"
+    ],
+    "respuesta": "Ocultar detalles del sistema en lugar de protegerlos correctamente"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué es el CVSS?",
+    "opciones": [
+      "Acceso persistente",
+      "Ataque de enumeración",
+      "Sistema de puntuación de vulnerabilidades",
+      "Acceso no autorizado"
+    ],
+    "respuesta": "Sistema de puntuación de vulnerabilidades"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué realiza una prueba de caja negra en pentesting?",
+    "opciones": [
+      "Captura de sesión",
+      "Código embebido malicioso",
+      "Fallo de autenticación",
+      "El auditor no tiene conocimiento previo del sistema"
+    ],
+    "respuesta": "El auditor no tiene conocimiento previo del sistema"
+  },
+  {
+    "nivel": "Difícil",
+    "pregunta": "¿Qué componente analiza firmas digitales en correos?",
+    "opciones": [
+      "Cliente o servidor de correo seguro con DKIM",
+      "Falsificación digital",
+      "Captura de sesión",
+      "Acceso persistente"
+    ],
+    "respuesta": "Cliente o servidor de correo seguro con DKIM"
+  }
+]
