@@ -2,46 +2,60 @@ import streamlit as st
 import json
 import random
 import pandas as pd
+from pathlib import Path
 
-st.set_page_config(page_title="Test de Programación", layout="centered")
+st.set_page_config(page_title="Test Interactivo", layout="centered")
 
-# Carga y baraja preguntas
+# Archivos disponibles
+CATEGORIAS = {
+    "Programación": "preguntas/Programacion.json",
+    "Ciberseguridad": "preguntas/Ciberseguridad.json",
+    "Redes": "preguntas/Redes.json",
+    "Base de Datos": "preguntas/BDD.json",
+    "Cultura General (Informática)": "preguntas/Cultura.json",
+    "Todas mezcladas": "preguntas/Todas.json"
+}
+
 @st.cache_data
-def cargar_preguntas(ruta_json):
-    preguntas = json.load(ruta_json)
+def cargar_preguntas(path_json):
+    with open(path_json, "r", encoding="utf-8") as f:
+        preguntas = json.load(f)
     return preguntas
 
-# Inicialización
-if "preguntas_seleccionadas" not in st.session_state:
-    st.session_state.preguntas_seleccionadas = []
+# Inicializar estados
+if "indice" not in st.session_state:
     st.session_state.indice = 0
     st.session_state.correctas = 0
     st.session_state.respondidas = []
+    st.session_state.preguntas = []
     st.session_state.opciones_preguntas = {}
+    st.session_state.test_iniciado = False
 
-# Estilo general
-st.markdown("<h1 style='text-align: center;'>🧠 Test de Programación</h1>", unsafe_allow_html=True)
+# Interfaz de selección
+st.markdown("<h1 style='text-align: center;'>🧠 Test Interactivo</h1>", unsafe_allow_html=True)
 st.markdown("---")
 
-archivo = st.file_uploader("📂 Sube tu archivo de preguntas (.json)", type=["json"])
+if not st.session_state.test_iniciado:
+    categoria = st.selectbox("📂 Selecciona una categoría", list(CATEGORIAS.keys()))
+    archivo = CATEGORIAS[categoria]
+    preguntas = cargar_preguntas(archivo)
+    total_disponibles = len(preguntas)
+    cantidad = st.slider(f"🔢 ¿Cuántas preguntas deseas responder? (de {total_disponibles})", 1, total_disponibles, 10)
 
-if archivo:
-    todas = cargar_preguntas(archivo)
-    total_disponibles = len(todas)
-    
-    if not st.session_state.preguntas_seleccionadas:
-        st.success(f"✅ Archivo cargado correctamente con {total_disponibles} preguntas disponibles.")
+    if st.button("🎯 Empezar Test"):
+        seleccionadas = random.sample(preguntas, cantidad)
+        st.session_state.preguntas = seleccionadas
+        st.session_state.test_iniciado = True
+        st.rerun()
 
-        cantidad = st.number_input("🎯 ¿Cuántas preguntas quieres responder?", 
-                                   min_value=1, max_value=total_disponibles, value=min(10, total_disponibles), step=1)
+# Mostrar preguntas
+if st.session_state.test_iniciado:
+    preguntas = st.session_state.preguntas
+    total = len(preguntas)
 
-        if st.button("Iniciar test"):
-            st.session_state.preguntas_seleccionadas = random.sample(todas, cantidad)
-            st.rerun()
-
-    elif st.session_state.indice < len(st.session_state.preguntas_seleccionadas):
+    if st.session_state.indice < total:
         i = st.session_state.indice
-        actual = st.session_state.preguntas_seleccionadas[i]
+        actual = preguntas[i]
         clave = actual["pregunta"]
 
         if clave not in st.session_state.opciones_preguntas:
@@ -51,7 +65,7 @@ if archivo:
         else:
             opciones = st.session_state.opciones_preguntas[clave]
 
-        st.info(f"**Pregunta {i + 1} de {len(st.session_state.preguntas_seleccionadas)}**  |  **Nivel:** {actual['nivel']}")
+        st.info(f"**Pregunta {i + 1} de {total}**  |  **Nivel:** {actual['nivel']}")
         seleccion = st.radio(actual["pregunta"], opciones, key=f"radio_{i}")
 
         if st.button("Responder", key=f"boton_{i}"):
@@ -73,7 +87,6 @@ if archivo:
             st.rerun()
     else:
         st.balloons()
-        total = len(st.session_state.preguntas_seleccionadas)
         st.success("🎉 ¡Has terminado el test!")
         st.write(f"**Puntaje final:** {st.session_state.correctas} / {total} ({round(st.session_state.correctas / total * 100)}%)")
         st.progress(st.session_state.correctas / total)
@@ -86,8 +99,6 @@ if archivo:
         st.download_button("📥 Descargar reporte JSON", data=json_resultado, file_name="resultados_test.json", mime="application/json")
 
         if st.button("🔄 Reiniciar test"):
-            for k in ["preguntas_seleccionadas", "indice", "correctas", "respondidas", "opciones_preguntas"]:
-                st.session_state.pop(k, None)
+            for k in list(st.session_state.keys()):
+                del st.session_state[k]
             st.rerun()
-else:
-    st.warning("Por favor, sube un archivo `.json` válido con las preguntas.")
